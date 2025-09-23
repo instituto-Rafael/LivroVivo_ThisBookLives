@@ -5,6 +5,7 @@
 **Data:** 2025-09-23  
 **Hash SHA256:** <Github hash>  
 **DOI:**<https://doi.org/10.5281/zenodo.17187966>  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17187966.svg)](https://doi.org/10.5281/zenodo.17187966)
 **Licença:** CC BY-SA 4.0 (padrão) + opção CC0 para trechos específicos
 
 ---
