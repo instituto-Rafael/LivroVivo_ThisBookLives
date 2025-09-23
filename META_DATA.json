@@ -1,0 +1,13 @@
+{
+  "title": "Livro Vivo Universal – RAFAELIA",
+  "author": "∆RafaelVerboΩ (Rafael Melo Reis)",
+  "rafcode": "RAFCODE-𝚽",
+  "license": "CC BY-SA 4.0",
+  "date": "2025-09-23",
+  "hash_sha256": "<inserir_hash_aqui>",
+  "doi": "<a preencher pelo Zenodo>",
+  "contact": "legal@rafelia.org",
+  "languages": ["pt", "en", "es", "fr", "ru", "zh", "ar"],
+  "jurisdictions": 186,
+  "signing": "Σ-seal Ed25519"
+}
