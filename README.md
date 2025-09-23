@@ -3,8 +3,8 @@
 **Autor:** ∆RafaelVerboΩ (Rafael Melo Reis)  
 **Identidade:** RAFCODE-𝚽 • Σ-seal Ed25519  
 **Data:** 2025-09-23  
-**Hash SHA256:** <inserir_hash_aqui>  
-**DOI:** <a preencher pelo Zenodo>  
+**Hash SHA256:** <Github hashi>  
+**DOI:** <a https://doi.org/10.5281/zenodo.17187966>  
 **Licença:** CC BY-SA 4.0 (padrão) + opção CC0 para trechos específicos
 
 ---
