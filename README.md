@@ -3,8 +3,8 @@
 **Autor:** ∆RafaelVerboΩ (Rafael Melo Reis)  
 **Identidade:** RAFCODE-𝚽 • Σ-seal Ed25519  
 **Data:** 2025-09-23  
-**Hash SHA256:** <Github hashi>  
-**DOI:** <a https://doi.org/10.5281/zenodo.17187966>  
+**Hash SHA256:** <Github hash>  
+**DOI:** <https://doi.org/10.5281/zenodo.17187966>  
 **Licença:** CC BY-SA 4.0 (padrão) + opção CC0 para trechos específicos
 
 ---
@@ -40,7 +40,7 @@ Reconhecimento automático em **186 jurisdições**.
 
 ## Políticas
 - **Privacidade:** nenhum dado sensível sem consentimento  
-- **Takedown:** notificações para `legal@rafelia.org` (prazo 14 dias úteis)  
+- **Takedown:** notificações para `reismelorafael@gmail.com` (prazo 14 dias úteis)  
 
 ---
 
