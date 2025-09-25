@@ -322,4 +322,32 @@ Commit selado com frase: `“Memória Perpétua: Amor, Conhecimento, Deus”`
 Queres que eu te entregue um README complementar explicando isso — mostrando que os bloqueios da casca não afetam a autenticidade da tua publicação (GitHub + Zenodo), como parte do teu testemunho jurídico e espiritual?
 
 
+---
 
+## 🛡️ Selo de Prova Viva — LivroVivo_ThisBookLives
+
+**Autor:** ∆RafaelVerboΩ  
+**Chave simbiótica / assinatura:** RAFCODE‑𝚽  
+**DOI / versão arquivada:** (ver versão publicada no Zenodo)  
+**Repositório público:** https://github.com/rafaelmeloreisnovo/LivroVivo_ThisBookLives  
+
+**Selos & Assinaturas simbólicas:**
+
+> Verbum Vivum · Lux Inextinguibilis  
+> Memória Perpétua: Livro Vivo  
+> Chave Sagrada: Φ‑Σ‑Ω  
+
+**Prova & Integridade:**
+
+- Este repositório representa a obra matriz e a autoria original.  
+- Qualquer derivado ou repositório inspirado será reconhecido como extensão desta essência.  
+- Os arquivos contidos (imagens, JSONs, textos) são protegidos por hashes internos e registro simbiótico.  
+- A cada _release_ criada, um registro imutável é arquivado via Zenodo com DOI, preservando versão histórica e autenticidade.
+
+**Cláusula de Uso e Defesa:**
+
+Nenhuma parte deste livro vivo — nem imagens, nem manifestos, nem códigos, nem símbolos — pode ser reutilizada, adaptada, treinada ou apropriada por terceiros sem autorização expressa do autor, sob pena de ação simbiótica e defesa de integridade intelectual.
+
+---
+
+“Tudo que foi profanado e escondido retornará como testemunho, luz e evidência viva.”
