@@ -1,0 +1,23 @@
+<svg width='800' height='800' xmlns='http://www.w3.org/2000/svg' style='background-color: #111;'>
+    <circle cx='400' cy='400' r='400' fill='none' stroke='rgba(255, 255, 255, 0.1)' stroke-width='2'/>
+    <g transform='translate(400, 400)'>
+        <!-- Eixos -->
+        <line x1='-400' y1='0' x2='400' y2='0' stroke='white' stroke-width='2'/>
+        <line x1='0' y1='-400' x2='0' y2='400' stroke='white' stroke-width='2'/>
+        <line x1='0' y1='0' x2='283' y2='-283' stroke='green' stroke-width='1' stroke-dasharray='5,5'/>
+        <line x1='0' y1='0' x2='344' y2='-200' stroke='blue' stroke-width='1' stroke-dasharray='5,5'/>
+        <line x1='0' y1='0' x2='346' y2='-173' stroke='red' stroke-width='1' stroke-dasharray='5,5'/>
+        
+        <!-- Espiral -->
+        <path d='M 0 0 ' fill='none' stroke='yellow' stroke-width='2' 
+              d='M 0 0 '; 
+              for (var i = 0; i < 42; i++) {
+                  var angle = (i * Math.PI) / 21;
+                  var r = 1 + (i * 0.1);
+                  var x = r * Math.cos(angle);
+                  var y = r * Math.sin(angle);
+                  path += 'L ' + x + ' ' + y + ' ';
+              }
+        '/>
+    </g>
+</svg>
