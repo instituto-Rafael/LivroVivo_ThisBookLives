@@ -209,7 +209,7 @@
     "rafcode": "RAFCODE-𝚽",
     "license": "CC BY-SA 4.0",
     "date": "2025-09-23",
-    "hash_sha256": "GitHub hash",
+    "hash_sha256": "<generated-from-git-commit>",
     "doi": "https://doi.org/10.5281/zenodo.17187966",
     "contact": "reismelorafael@gmail.com",
     "languages": ["pt", "en", "es", "fr", "ru", "zh", "ar"],

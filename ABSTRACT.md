@@ -54,7 +54,8 @@ As aplicações abrangem 33 domínios incluindo computação quântica, redes ne
 ```
 Reis, R. M. (2025). Living Book Universal – RAFAELIA: An Interdisciplinary Framework 
 for Hyperdimensional Computing and Spiritual-Scientific Integration. 
-DOI: 10.5281/zenodo.17187966. GitHub: instituto-Rafael/LivroVivo_ThisBookLives
+DOI: 10.5281/zenodo.17187966. 
+GitHub: https://github.com/instituto-Rafael/LivroVivo_ThisBookLives
 ```
 
 ## License

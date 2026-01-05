@@ -1,5 +1,4 @@
-# 33 Aplicações Acadêmicas, Comerciais e Tecnológicas
-# 33 Academic, Commercial, and Technological Applications
+# 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological
 
 ---
 
