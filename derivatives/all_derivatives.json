@@ -1,0 +1,3122 @@
+{
+  "License.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "2. `LICENSE`",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '2. `LICENSE`' em Educação",
+      "description": "Como implementar 2. `LICENSE` em contexto real de Educação",
+      "examples": [
+        "Protótipo de 2. `LICENSE` para Educação",
+        "Caso de uso: 2. `LICENSE` resolvendo problema em Educação",
+        "Métrica de sucesso para 2. `LICENSE` em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "2. `LICENSE`",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '2. `LICENSE`' em Saúde",
+      "description": "Como implementar 2. `LICENSE` em contexto real de Saúde",
+      "examples": [
+        "Protótipo de 2. `LICENSE` para Saúde",
+        "Caso de uso: 2. `LICENSE` resolvendo problema em Saúde",
+        "Métrica de sucesso para 2. `LICENSE` em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Autor",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Autor' em Educação",
+      "description": "Como implementar Autor em contexto real de Educação",
+      "examples": [
+        "Protótipo de Autor para Educação",
+        "Caso de uso: Autor resolvendo problema em Educação",
+        "Métrica de sucesso para Autor em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Autor",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Autor' em Saúde",
+      "description": "Como implementar Autor em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Autor para Saúde",
+        "Caso de uso: Autor resolvendo problema em Saúde",
+        "Métrica de sucesso para Autor em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Rafael Melo Reis",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Rafael Melo Reis' em Educação",
+      "description": "Como implementar Rafael Melo Reis em contexto real de Educação",
+      "examples": [
+        "Protótipo de Rafael Melo Reis para Educação",
+        "Caso de uso: Rafael Melo Reis resolvendo problema em Educação",
+        "Métrica de sucesso para Rafael Melo Reis em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Rafael Melo Reis",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Rafael Melo Reis' em Saúde",
+      "description": "Como implementar Rafael Melo Reis em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Rafael Melo Reis para Saúde",
+        "Caso de uso: Rafael Melo Reis resolvendo problema em Saúde",
+        "Métrica de sucesso para Rafael Melo Reis em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "2. `LICENSE`",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de '2. `LICENSE`'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a 2. `LICENSE`",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Autor",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Autor'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Autor",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "2. `LICENSE`",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de 2. `LICENSE`",
+      "description": "A face oposta mas interdependente de 2. `LICENSE`",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como 2. `LICENSE` e Aspecto complementar de 2. `LICENSE` se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Autor",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Autor",
+      "description": "A face oposta mas interdependente de Autor",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Autor e Aspecto complementar de Autor se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "License.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo License.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 115,
+      "sample": "Se quiseres, eu transformo isso num poster A3 (mandala técnica) ou num .csv com as 84 posições (marcando âncoras, janelas, yin/yang, zig-zag e checagens TAG-14) para você manipular/estudar...."
+    }
+  ],
+  "INDEX.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Índice Acadêmico / Academic Index",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Índice Acadêmico / Academic Index' em Educação",
+      "description": "Como implementar Índice Acadêmico / Academic Index em contexto real de Educação",
+      "examples": [
+        "Protótipo de Índice Acadêmico / Academic Index para Educação",
+        "Caso de uso: Índice Acadêmico / Academic Index resolvendo problema em Educação",
+        "Métrica de sucesso para Índice Acadêmico / Academic Index em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Índice Acadêmico / Academic Index",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Índice Acadêmico / Academic Index' em Saúde",
+      "description": "Como implementar Índice Acadêmico / Academic Index em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Índice Acadêmico / Academic Index para Saúde",
+        "Caso de uso: Índice Acadêmico / Academic Index resolvendo problema em Saúde",
+        "Métrica de sucesso para Índice Acadêmico / Academic Index em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro Vivo Universal – RAFAELIA",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro Vivo Universal – RAFAELIA' em Educação",
+      "description": "Como implementar Livro Vivo Universal – RAFAELIA em contexto real de Educação",
+      "examples": [
+        "Protótipo de Livro Vivo Universal – RAFAELIA para Educação",
+        "Caso de uso: Livro Vivo Universal – RAFAELIA resolvendo problema em Educação",
+        "Métrica de sucesso para Livro Vivo Universal – RAFAELIA em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro Vivo Universal – RAFAELIA",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro Vivo Universal – RAFAELIA' em Saúde",
+      "description": "Como implementar Livro Vivo Universal – RAFAELIA em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Livro Vivo Universal – RAFAELIA para Saúde",
+        "Caso de uso: Livro Vivo Universal – RAFAELIA resolvendo problema em Saúde",
+        "Métrica de sucesso para Livro Vivo Universal – RAFAELIA em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "📚 Estrutura Acadêmica Completa / Complete Academic Structure",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '📚 Estrutura Acadêmica Completa / Complete Academic Structure' em Educação",
+      "description": "Como implementar 📚 Estrutura Acadêmica Completa / Complete Academic Structure em contexto real de Educação",
+      "examples": [
+        "Protótipo de 📚 Estrutura Acadêmica Completa / Complete Academic Structure para Educação",
+        "Caso de uso: 📚 Estrutura Acadêmica Completa / Complete Academic Structure resolvendo problema em Educação",
+        "Métrica de sucesso para 📚 Estrutura Acadêmica Completa / Complete Academic Structure em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "📚 Estrutura Acadêmica Completa / Complete Academic Structure",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '📚 Estrutura Acadêmica Completa / Complete Academic Structure' em Saúde",
+      "description": "Como implementar 📚 Estrutura Acadêmica Completa / Complete Academic Structure em contexto real de Saúde",
+      "examples": [
+        "Protótipo de 📚 Estrutura Acadêmica Completa / Complete Academic Structure para Saúde",
+        "Caso de uso: 📚 Estrutura Acadêmica Completa / Complete Academic Structure resolvendo problema em Saúde",
+        "Métrica de sucesso para 📚 Estrutura Acadêmica Completa / Complete Academic Structure em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Índice Acadêmico / Academic Index",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Índice Acadêmico / Academic Index'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Índice Acadêmico / Academic Index",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Livro Vivo Universal – RAFAELIA",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Livro Vivo Universal – RAFAELIA'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Livro Vivo Universal – RAFAELIA",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Índice Acadêmico / Academic Index",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Índice Acadêmico / Academic Index",
+      "description": "A face oposta mas interdependente de Índice Acadêmico / Academic Index",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Índice Acadêmico / Academic Index e Aspecto complementar de Índice Acadêmico / Academic Index se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Livro Vivo Universal – RAFAELIA",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Livro Vivo Universal – RAFAELIA",
+      "description": "A face oposta mas interdependente de Livro Vivo Universal – RAFAELIA",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Livro Vivo Universal – RAFAELIA e Aspecto complementar de Livro Vivo Universal – RAFAELIA se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "INDEX.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo INDEX.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 80,
+      "sample": "**Status:** ✅ Pronto para adoção universitária global / Ready for global university adoption..."
+    }
+  ],
+  "DERIVATIVES_INDEX.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Índice de Derivadas e Transformações / Derivatives and Transformations Index",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Índice de Derivadas e Transformações / Derivatives and Transformations Index' em Educação",
+      "description": "Como implementar Índice de Derivadas e Transformações / Derivatives and Transformations Index em contexto real de Educação",
+      "examples": [
+        "Protótipo de Índice de Derivadas e Transformações / Derivatives and Transformations Index para Educação",
+        "Caso de uso: Índice de Derivadas e Transformações / Derivatives and Transformations Index resolvendo problema em Educação",
+        "Métrica de sucesso para Índice de Derivadas e Transformações / Derivatives and Transformations Index em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Índice de Derivadas e Transformações / Derivatives and Transformations Index",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Índice de Derivadas e Transformações / Derivatives and Transformations Index' em Saúde",
+      "description": "Como implementar Índice de Derivadas e Transformações / Derivatives and Transformations Index em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Índice de Derivadas e Transformações / Derivatives and Transformations Index para Saúde",
+        "Caso de uso: Índice de Derivadas e Transformações / Derivatives and Transformations Index resolvendo problema em Saúde",
+        "Métrica de sucesso para Índice de Derivadas e Transformações / Derivatives and Transformations Index em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro Vivo Universal – RAFAELIA",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro Vivo Universal – RAFAELIA' em Educação",
+      "description": "Como implementar Livro Vivo Universal – RAFAELIA em contexto real de Educação",
+      "examples": [
+        "Protótipo de Livro Vivo Universal – RAFAELIA para Educação",
+        "Caso de uso: Livro Vivo Universal – RAFAELIA resolvendo problema em Educação",
+        "Métrica de sucesso para Livro Vivo Universal – RAFAELIA em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro Vivo Universal – RAFAELIA",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro Vivo Universal – RAFAELIA' em Saúde",
+      "description": "Como implementar Livro Vivo Universal – RAFAELIA em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Livro Vivo Universal – RAFAELIA para Saúde",
+        "Caso de uso: Livro Vivo Universal – RAFAELIA resolvendo problema em Saúde",
+        "Métrica de sucesso para Livro Vivo Universal – RAFAELIA em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Visão Geral / Overview",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Visão Geral / Overview' em Educação",
+      "description": "Como implementar Visão Geral / Overview em contexto real de Educação",
+      "examples": [
+        "Protótipo de Visão Geral / Overview para Educação",
+        "Caso de uso: Visão Geral / Overview resolvendo problema em Educação",
+        "Métrica de sucesso para Visão Geral / Overview em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Visão Geral / Overview",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Visão Geral / Overview' em Saúde",
+      "description": "Como implementar Visão Geral / Overview em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Visão Geral / Overview para Saúde",
+        "Caso de uso: Visão Geral / Overview resolvendo problema em Saúde",
+        "Métrica de sucesso para Visão Geral / Overview em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Índice de Derivadas e Transformações / Derivatives and Transformations Index",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Índice de Derivadas e Transformações / Derivatives and Transformations Index'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Índice de Derivadas e Transformações / Derivatives and Transformations Index",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Livro Vivo Universal – RAFAELIA",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Livro Vivo Universal – RAFAELIA'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Livro Vivo Universal – RAFAELIA",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Índice de Derivadas e Transformações / Derivatives and Transformations Index",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Índice de Derivadas e Transformações / Derivatives and Transformations Index",
+      "description": "A face oposta mas interdependente de Índice de Derivadas e Transformações / Derivatives and Transformations Index",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Índice de Derivadas e Transformações / Derivatives and Transformations Index e Aspecto complementar de Índice de Derivadas e Transformações / Derivatives and Transformations Index se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Livro Vivo Universal – RAFAELIA",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Livro Vivo Universal – RAFAELIA",
+      "description": "A face oposta mas interdependente de Livro Vivo Universal – RAFAELIA",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Livro Vivo Universal – RAFAELIA e Aspecto complementar de Livro Vivo Universal – RAFAELIA se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "DERIVATIVES_INDEX.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo DERIVATIVES_INDEX.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 129,
+      "sample": "**Status:** ✅ Sistema de 69 Derivações Completo / 69 Derivatives System Complete..."
+    }
+  ],
+  "FILE_DESCRIPTIONS.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Descrição Técnica de Todos os Arquivos / Technical Description of All Files",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Descrição Técnica de Todos os Arquivos / Technical Description of All Files' em Educação",
+      "description": "Como implementar Descrição Técnica de Todos os Arquivos / Technical Description of All Files em contexto real de Educação",
+      "examples": [
+        "Protótipo de Descrição Técnica de Todos os Arquivos / Technical Description of All Files para Educação",
+        "Caso de uso: Descrição Técnica de Todos os Arquivos / Technical Description of All Files resolvendo problema em Educação",
+        "Métrica de sucesso para Descrição Técnica de Todos os Arquivos / Technical Description of All Files em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Descrição Técnica de Todos os Arquivos / Technical Description of All Files",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Descrição Técnica de Todos os Arquivos / Technical Description of All Files' em Saúde",
+      "description": "Como implementar Descrição Técnica de Todos os Arquivos / Technical Description of All Files em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Descrição Técnica de Todos os Arquivos / Technical Description of All Files para Saúde",
+        "Caso de uso: Descrição Técnica de Todos os Arquivos / Technical Description of All Files resolvendo problema em Saúde",
+        "Métrica de sucesso para Descrição Técnica de Todos os Arquivos / Technical Description of All Files em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Índice / Index",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Índice / Index' em Educação",
+      "description": "Como implementar Índice / Index em contexto real de Educação",
+      "examples": [
+        "Protótipo de Índice / Index para Educação",
+        "Caso de uso: Índice / Index resolvendo problema em Educação",
+        "Métrica de sucesso para Índice / Index em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Índice / Index",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Índice / Index' em Saúde",
+      "description": "Como implementar Índice / Index em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Índice / Index para Saúde",
+        "Caso de uso: Índice / Index resolvendo problema em Saúde",
+        "Métrica de sucesso para Índice / Index em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Documentação Principal",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Documentação Principal' em Educação",
+      "description": "Como implementar Documentação Principal em contexto real de Educação",
+      "examples": [
+        "Protótipo de Documentação Principal para Educação",
+        "Caso de uso: Documentação Principal resolvendo problema em Educação",
+        "Métrica de sucesso para Documentação Principal em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Documentação Principal",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Documentação Principal' em Saúde",
+      "description": "Como implementar Documentação Principal em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Documentação Principal para Saúde",
+        "Caso de uso: Documentação Principal resolvendo problema em Saúde",
+        "Métrica de sucesso para Documentação Principal em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Descrição Técnica de Todos os Arquivos / Technical Description of All Files",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Descrição Técnica de Todos os Arquivos / Technical Description of All Files'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Descrição Técnica de Todos os Arquivos / Technical Description of All Files",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Índice / Index",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Índice / Index'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Índice / Index",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Descrição Técnica de Todos os Arquivos / Technical Description of All Files",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Descrição Técnica de Todos os Arquivos / Technical Description of All Files",
+      "description": "A face oposta mas interdependente de Descrição Técnica de Todos os Arquivos / Technical Description of All Files",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Descrição Técnica de Todos os Arquivos / Technical Description of All Files e Aspecto complementar de Descrição Técnica de Todos os Arquivos / Technical Description of All Files se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Índice / Index",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Índice / Index",
+      "description": "A face oposta mas interdependente de Índice / Index",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Índice / Index e Aspecto complementar de Índice / Index se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "FILE_DESCRIPTIONS.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo FILE_DESCRIPTIONS.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 67,
+      "sample": "**Compilado por / Compiled by:**  \n∆RafaelVerboΩ (Rafael Melo Reis)  \nRAFCODE-𝚽 • Σ-seal Ed25519  \nData: 2025-09-23..."
+    }
+  ],
+  "APPLICATIONS.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological' em Educação",
+      "description": "Como implementar 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological em contexto real de Educação",
+      "examples": [
+        "Protótipo de 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological para Educação",
+        "Caso de uso: 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological resolvendo problema em Educação",
+        "Métrica de sucesso para 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological' em Saúde",
+      "description": "Como implementar 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological em contexto real de Saúde",
+      "examples": [
+        "Protótipo de 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological para Saúde",
+        "Caso de uso: 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological resolvendo problema em Saúde",
+        "Métrica de sucesso para 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications' em Educação",
+      "description": "Como implementar Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications em contexto real de Educação",
+      "examples": [
+        "Protótipo de Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications para Educação",
+        "Caso de uso: Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications resolvendo problema em Educação",
+        "Métrica de sucesso para Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications' em Saúde",
+      "description": "Como implementar Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications para Saúde",
+        "Caso de uso: Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications resolvendo problema em Saúde",
+        "Métrica de sucesso para Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing' em Educação",
+      "description": "Como implementar 1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing em contexto real de Educação",
+      "examples": [
+        "Protótipo de 1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing para Educação",
+        "Caso de uso: 1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing resolvendo problema em Educação",
+        "Métrica de sucesso para 1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing' em Saúde",
+      "description": "Como implementar 1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing em contexto real de Saúde",
+      "examples": [
+        "Protótipo de 1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing para Saúde",
+        "Caso de uso: 1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing resolvendo problema em Saúde",
+        "Métrica de sucesso para 1. Ensino de Computação Hiperdimensional / Teaching Hyperdimensional Computing em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de '33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological",
+      "description": "A face oposta mas interdependente de 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological e Aspecto complementar de 33 Aplicações / Applications: Acadêmicas, Comerciais e Tecnológicas / Academic, Commercial, and Technological se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications",
+      "description": "A face oposta mas interdependente de Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications e Aspecto complementar de Parte I: 11 Aplicações Acadêmicas / Part I: 11 Academic Applications se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "APPLICATIONS.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo APPLICATIONS.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 269,
+      "sample": "This document will be updated as new applications are discovered and validated...."
+    }
+  ],
+  "Epilogo.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Perfeito' em Educação",
+      "description": "Como implementar Perfeito em contexto real de Educação",
+      "examples": [
+        "Protótipo de Perfeito para Educação",
+        "Caso de uso: Perfeito resolvendo problema em Educação",
+        "Métrica de sucesso para Perfeito em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Perfeito' em Saúde",
+      "description": "Como implementar Perfeito em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Perfeito para Saúde",
+        "Caso de uso: Perfeito resolvendo problema em Saúde",
+        "Métrica de sucesso para Perfeito em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Rafaeliana",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Rafaeliana' em Educação",
+      "description": "Como implementar Rafaeliana em contexto real de Educação",
+      "examples": [
+        "Protótipo de Rafaeliana para Educação",
+        "Caso de uso: Rafaeliana resolvendo problema em Educação",
+        "Métrica de sucesso para Rafaeliana em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Rafaeliana",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Rafaeliana' em Saúde",
+      "description": "Como implementar Rafaeliana em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Rafaeliana para Saúde",
+        "Caso de uso: Rafaeliana resolvendo problema em Saúde",
+        "Métrica de sucesso para Rafaeliana em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro' em Educação",
+      "description": "Como implementar Livro em contexto real de Educação",
+      "examples": [
+        "Protótipo de Livro para Educação",
+        "Caso de uso: Livro resolvendo problema em Educação",
+        "Métrica de sucesso para Livro em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro' em Saúde",
+      "description": "Como implementar Livro em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Livro para Saúde",
+        "Caso de uso: Livro resolvendo problema em Saúde",
+        "Métrica de sucesso para Livro em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Perfeito'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Perfeito",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Rafaeliana",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Rafaeliana'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Rafaeliana",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Perfeito",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Perfeito",
+      "description": "A face oposta mas interdependente de Perfeito",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Perfeito e Aspecto complementar de Perfeito se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Rafaeliana",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Rafaeliana",
+      "description": "A face oposta mas interdependente de Rafaeliana",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Rafaeliana e Aspecto complementar de Rafaeliana se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "Epilogo.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo Epilogo.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 227,
+      "sample": "> “Quem retroalimenta o Amor,\nparticipa da criação.” ♾️..."
+    }
+  ],
+  "ABSTRACT.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Abstract / Resumo Executivo Acadêmico",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Abstract / Resumo Executivo Acadêmico' em Educação",
+      "description": "Como implementar Abstract / Resumo Executivo Acadêmico em contexto real de Educação",
+      "examples": [
+        "Protótipo de Abstract / Resumo Executivo Acadêmico para Educação",
+        "Caso de uso: Abstract / Resumo Executivo Acadêmico resolvendo problema em Educação",
+        "Métrica de sucesso para Abstract / Resumo Executivo Acadêmico em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Abstract / Resumo Executivo Acadêmico",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Abstract / Resumo Executivo Acadêmico' em Saúde",
+      "description": "Como implementar Abstract / Resumo Executivo Acadêmico em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Abstract / Resumo Executivo Acadêmico para Saúde",
+        "Caso de uso: Abstract / Resumo Executivo Acadêmico resolvendo problema em Saúde",
+        "Métrica de sucesso para Abstract / Resumo Executivo Acadêmico em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "English Abstract",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'English Abstract' em Educação",
+      "description": "Como implementar English Abstract em contexto real de Educação",
+      "examples": [
+        "Protótipo de English Abstract para Educação",
+        "Caso de uso: English Abstract resolvendo problema em Educação",
+        "Métrica de sucesso para English Abstract em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "English Abstract",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'English Abstract' em Saúde",
+      "description": "Como implementar English Abstract em contexto real de Saúde",
+      "examples": [
+        "Protótipo de English Abstract para Saúde",
+        "Caso de uso: English Abstract resolvendo problema em Saúde",
+        "Métrica de sucesso para English Abstract em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Resumo em Português",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Resumo em Português' em Educação",
+      "description": "Como implementar Resumo em Português em contexto real de Educação",
+      "examples": [
+        "Protótipo de Resumo em Português para Educação",
+        "Caso de uso: Resumo em Português resolvendo problema em Educação",
+        "Métrica de sucesso para Resumo em Português em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Resumo em Português",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Resumo em Português' em Saúde",
+      "description": "Como implementar Resumo em Português em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Resumo em Português para Saúde",
+        "Caso de uso: Resumo em Português resolvendo problema em Saúde",
+        "Métrica de sucesso para Resumo em Português em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Abstract / Resumo Executivo Acadêmico",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Abstract / Resumo Executivo Acadêmico'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Abstract / Resumo Executivo Acadêmico",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "English Abstract",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'English Abstract'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a English Abstract",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Abstract / Resumo Executivo Acadêmico",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Abstract / Resumo Executivo Acadêmico",
+      "description": "A face oposta mas interdependente de Abstract / Resumo Executivo Acadêmico",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Abstract / Resumo Executivo Acadêmico e Aspecto complementar de Abstract / Resumo Executivo Acadêmico se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "English Abstract",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de English Abstract",
+      "description": "A face oposta mas interdependente de English Abstract",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como English Abstract e Aspecto complementar de English Abstract se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "ABSTRACT.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo ABSTRACT.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 23,
+      "sample": "## License\nCC BY-SA 4.0 - See [License.md](License.md) for details..."
+    }
+  ],
+  "Biografia.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Perfeito' em Educação",
+      "description": "Como implementar Perfeito em contexto real de Educação",
+      "examples": [
+        "Protótipo de Perfeito para Educação",
+        "Caso de uso: Perfeito resolvendo problema em Educação",
+        "Métrica de sucesso para Perfeito em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Perfeito' em Saúde",
+      "description": "Como implementar Perfeito em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Perfeito para Saúde",
+        "Caso de uso: Perfeito resolvendo problema em Saúde",
+        "Métrica de sucesso para Perfeito em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Rafael",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Rafael' em Educação",
+      "description": "Como implementar Rafael em contexto real de Educação",
+      "examples": [
+        "Protótipo de Rafael para Educação",
+        "Caso de uso: Rafael resolvendo problema em Educação",
+        "Métrica de sucesso para Rafael em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Rafael",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Rafael' em Saúde",
+      "description": "Como implementar Rafael em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Rafael para Saúde",
+        "Caso de uso: Rafael resolvendo problema em Saúde",
+        "Métrica de sucesso para Rafael em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Jardim",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Jardim' em Educação",
+      "description": "Como implementar Jardim em contexto real de Educação",
+      "examples": [
+        "Protótipo de Jardim para Educação",
+        "Caso de uso: Jardim resolvendo problema em Educação",
+        "Métrica de sucesso para Jardim em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Jardim",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Jardim' em Saúde",
+      "description": "Como implementar Jardim em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Jardim para Saúde",
+        "Caso de uso: Jardim resolvendo problema em Saúde",
+        "Métrica de sucesso para Jardim em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Perfeito'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Perfeito",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Rafael",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Rafael'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Rafael",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Perfeito",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Perfeito",
+      "description": "A face oposta mas interdependente de Perfeito",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Perfeito e Aspecto complementar de Perfeito se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Rafael",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Rafael",
+      "description": "A face oposta mas interdependente de Rafael",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Rafael e Aspecto complementar de Rafael se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "Biografia.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo Biografia.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 69,
+      "sample": "Deseja que eu insira símbolos RAFCODE-𝚽 / Tag14 ou estilo manuscrito (tipo “Livro Vivo”) nessa parábola também? 📖🌀..."
+    }
+  ],
+  "BIBLIOGRAPHY.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Bibliografia Acadêmica Completa / Complete Academic Bibliography",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Bibliografia Acadêmica Completa / Complete Academic Bibliography' em Educação",
+      "description": "Como implementar Bibliografia Acadêmica Completa / Complete Academic Bibliography em contexto real de Educação",
+      "examples": [
+        "Protótipo de Bibliografia Acadêmica Completa / Complete Academic Bibliography para Educação",
+        "Caso de uso: Bibliografia Acadêmica Completa / Complete Academic Bibliography resolvendo problema em Educação",
+        "Métrica de sucesso para Bibliografia Acadêmica Completa / Complete Academic Bibliography em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Bibliografia Acadêmica Completa / Complete Academic Bibliography",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Bibliografia Acadêmica Completa / Complete Academic Bibliography' em Saúde",
+      "description": "Como implementar Bibliografia Acadêmica Completa / Complete Academic Bibliography em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Bibliografia Acadêmica Completa / Complete Academic Bibliography para Saúde",
+        "Caso de uso: Bibliografia Acadêmica Completa / Complete Academic Bibliography resolvendo problema em Saúde",
+        "Métrica de sucesso para Bibliografia Acadêmica Completa / Complete Academic Bibliography em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Referências Organizadas por Tema / References Organized by Topic",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Referências Organizadas por Tema / References Organized by Topic' em Educação",
+      "description": "Como implementar Referências Organizadas por Tema / References Organized by Topic em contexto real de Educação",
+      "examples": [
+        "Protótipo de Referências Organizadas por Tema / References Organized by Topic para Educação",
+        "Caso de uso: Referências Organizadas por Tema / References Organized by Topic resolvendo problema em Educação",
+        "Métrica de sucesso para Referências Organizadas por Tema / References Organized by Topic em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Referências Organizadas por Tema / References Organized by Topic",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Referências Organizadas por Tema / References Organized by Topic' em Saúde",
+      "description": "Como implementar Referências Organizadas por Tema / References Organized by Topic em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Referências Organizadas por Tema / References Organized by Topic para Saúde",
+        "Caso de uso: Referências Organizadas por Tema / References Organized by Topic resolvendo problema em Saúde",
+        "Métrica de sucesso para Referências Organizadas por Tema / References Organized by Topic em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs)",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs)' em Educação",
+      "description": "Como implementar 1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs) em contexto real de Educação",
+      "examples": [
+        "Protótipo de 1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs) para Educação",
+        "Caso de uso: 1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs) resolvendo problema em Educação",
+        "Métrica de sucesso para 1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs) em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs)",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs)' em Saúde",
+      "description": "Como implementar 1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs) em contexto real de Saúde",
+      "examples": [
+        "Protótipo de 1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs) para Saúde",
+        "Caso de uso: 1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs) resolvendo problema em Saúde",
+        "Métrica de sucesso para 1. Computação Hiperdimensional / Hyperdimensional Computing (8+ refs) em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Bibliografia Acadêmica Completa / Complete Academic Bibliography",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Bibliografia Acadêmica Completa / Complete Academic Bibliography'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Bibliografia Acadêmica Completa / Complete Academic Bibliography",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Referências Organizadas por Tema / References Organized by Topic",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Referências Organizadas por Tema / References Organized by Topic'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Referências Organizadas por Tema / References Organized by Topic",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Bibliografia Acadêmica Completa / Complete Academic Bibliography",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Bibliografia Acadêmica Completa / Complete Academic Bibliography",
+      "description": "A face oposta mas interdependente de Bibliografia Acadêmica Completa / Complete Academic Bibliography",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Bibliografia Acadêmica Completa / Complete Academic Bibliography e Aspecto complementar de Bibliografia Acadêmica Completa / Complete Academic Bibliography se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Referências Organizadas por Tema / References Organized by Topic",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Referências Organizadas por Tema / References Organized by Topic",
+      "description": "A face oposta mas interdependente de Referências Organizadas por Tema / References Organized by Topic",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Referências Organizadas por Tema / References Organized by Topic e Aspecto complementar de Referências Organizadas por Tema / References Organized by Topic se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "BIBLIOGRAPHY.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo BIBLIOGRAPHY.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 132,
+      "sample": "**Compilado por / Compiled by:**  \n∆RafaelVerboΩ (Rafael Melo Reis)  \nRAFCODE-𝚽 • Σ-seal Ed25519..."
+    }
+  ],
+  "Manifest.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Selo de Prova Viva – Obra Matriz",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Selo de Prova Viva – Obra Matriz' em Educação",
+      "description": "Como implementar Selo de Prova Viva – Obra Matriz em contexto real de Educação",
+      "examples": [
+        "Protótipo de Selo de Prova Viva – Obra Matriz para Educação",
+        "Caso de uso: Selo de Prova Viva – Obra Matriz resolvendo problema em Educação",
+        "Métrica de sucesso para Selo de Prova Viva – Obra Matriz em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Selo de Prova Viva – Obra Matriz",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Selo de Prova Viva – Obra Matriz' em Saúde",
+      "description": "Como implementar Selo de Prova Viva – Obra Matriz em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Selo de Prova Viva – Obra Matriz para Saúde",
+        "Caso de uso: Selo de Prova Viva – Obra Matriz resolvendo problema em Saúde",
+        "Métrica de sucesso para Selo de Prova Viva – Obra Matriz em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Selo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Selo' em Educação",
+      "description": "Como implementar Selo em contexto real de Educação",
+      "examples": [
+        "Protótipo de Selo para Educação",
+        "Caso de uso: Selo resolvendo problema em Educação",
+        "Métrica de sucesso para Selo em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Selo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Selo' em Saúde",
+      "description": "Como implementar Selo em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Selo para Saúde",
+        "Caso de uso: Selo resolvendo problema em Saúde",
+        "Métrica de sucesso para Selo em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Prova Viva",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Prova Viva' em Educação",
+      "description": "Como implementar Prova Viva em contexto real de Educação",
+      "examples": [
+        "Protótipo de Prova Viva para Educação",
+        "Caso de uso: Prova Viva resolvendo problema em Educação",
+        "Métrica de sucesso para Prova Viva em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Prova Viva",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Prova Viva' em Saúde",
+      "description": "Como implementar Prova Viva em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Prova Viva para Saúde",
+        "Caso de uso: Prova Viva resolvendo problema em Saúde",
+        "Métrica de sucesso para Prova Viva em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Selo de Prova Viva – Obra Matriz",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Selo de Prova Viva – Obra Matriz'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Selo de Prova Viva – Obra Matriz",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Selo",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Selo'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Selo",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Selo de Prova Viva – Obra Matriz",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Selo de Prova Viva – Obra Matriz",
+      "description": "A face oposta mas interdependente de Selo de Prova Viva – Obra Matriz",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Selo de Prova Viva – Obra Matriz e Aspecto complementar de Selo de Prova Viva – Obra Matriz se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Selo",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Selo",
+      "description": "A face oposta mas interdependente de Selo",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Selo e Aspecto complementar de Selo se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "Manifest.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo Manifest.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 11,
+      "sample": "“Sou testemunha viva. A obra vive. O sagrado ressurge em meio à profanação.”..."
+    }
+  ],
+  "METHODOLOGY.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Metodologia: 7 Modelos Científicos Fundamentais",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Metodologia: 7 Modelos Científicos Fundamentais' em Educação",
+      "description": "Como implementar Metodologia: 7 Modelos Científicos Fundamentais em contexto real de Educação",
+      "examples": [
+        "Protótipo de Metodologia: 7 Modelos Científicos Fundamentais para Educação",
+        "Caso de uso: Metodologia: 7 Modelos Científicos Fundamentais resolvendo problema em Educação",
+        "Métrica de sucesso para Metodologia: 7 Modelos Científicos Fundamentais em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Metodologia: 7 Modelos Científicos Fundamentais",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Metodologia: 7 Modelos Científicos Fundamentais' em Saúde",
+      "description": "Como implementar Metodologia: 7 Modelos Científicos Fundamentais em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Metodologia: 7 Modelos Científicos Fundamentais para Saúde",
+        "Caso de uso: Metodologia: 7 Modelos Científicos Fundamentais resolvendo problema em Saúde",
+        "Métrica de sucesso para Metodologia: 7 Modelos Científicos Fundamentais em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Methodology: 7 Fundamental Scientific Models",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Methodology: 7 Fundamental Scientific Models' em Educação",
+      "description": "Como implementar Methodology: 7 Fundamental Scientific Models em contexto real de Educação",
+      "examples": [
+        "Protótipo de Methodology: 7 Fundamental Scientific Models para Educação",
+        "Caso de uso: Methodology: 7 Fundamental Scientific Models resolvendo problema em Educação",
+        "Métrica de sucesso para Methodology: 7 Fundamental Scientific Models em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Methodology: 7 Fundamental Scientific Models",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Methodology: 7 Fundamental Scientific Models' em Saúde",
+      "description": "Como implementar Methodology: 7 Fundamental Scientific Models em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Methodology: 7 Fundamental Scientific Models para Saúde",
+        "Caso de uso: Methodology: 7 Fundamental Scientific Models resolvendo problema em Saúde",
+        "Métrica de sucesso para Methodology: 7 Fundamental Scientific Models em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Introdução / Introduction",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Introdução / Introduction' em Educação",
+      "description": "Como implementar Introdução / Introduction em contexto real de Educação",
+      "examples": [
+        "Protótipo de Introdução / Introduction para Educação",
+        "Caso de uso: Introdução / Introduction resolvendo problema em Educação",
+        "Métrica de sucesso para Introdução / Introduction em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Introdução / Introduction",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Introdução / Introduction' em Saúde",
+      "description": "Como implementar Introdução / Introduction em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Introdução / Introduction para Saúde",
+        "Caso de uso: Introdução / Introduction resolvendo problema em Saúde",
+        "Métrica de sucesso para Introdução / Introduction em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Metodologia: 7 Modelos Científicos Fundamentais",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Metodologia: 7 Modelos Científicos Fundamentais'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Metodologia: 7 Modelos Científicos Fundamentais",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Methodology: 7 Fundamental Scientific Models",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Methodology: 7 Fundamental Scientific Models'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Methodology: 7 Fundamental Scientific Models",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Metodologia: 7 Modelos Científicos Fundamentais",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Metodologia: 7 Modelos Científicos Fundamentais",
+      "description": "A face oposta mas interdependente de Metodologia: 7 Modelos Científicos Fundamentais",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Metodologia: 7 Modelos Científicos Fundamentais e Aspecto complementar de Metodologia: 7 Modelos Científicos Fundamentais se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Methodology: 7 Fundamental Scientific Models",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Methodology: 7 Fundamental Scientific Models",
+      "description": "A face oposta mas interdependente de Methodology: 7 Fundamental Scientific Models",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Methodology: 7 Fundamental Scientific Models e Aspecto complementar de Methodology: 7 Fundamental Scientific Models se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "METHODOLOGY.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo METHODOLOGY.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 158,
+      "sample": "**Compilado por / Compiled by:**  \n∆RafaelVerboΩ (Rafael Melo Reis)  \nRAFCODE-𝚽 • Σ-seal Ed25519  \nData: 2025-09-23..."
+    }
+  ],
+  "review1.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro' em Educação",
+      "description": "Como implementar Livro em contexto real de Educação",
+      "examples": [
+        "Protótipo de Livro para Educação",
+        "Caso de uso: Livro resolvendo problema em Educação",
+        "Métrica de sucesso para Livro em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro' em Saúde",
+      "description": "Como implementar Livro em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Livro para Saúde",
+        "Caso de uso: Livro resolvendo problema em Saúde",
+        "Métrica de sucesso para Livro em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Manifesto",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Manifesto' em Educação",
+      "description": "Como implementar Manifesto em contexto real de Educação",
+      "examples": [
+        "Protótipo de Manifesto para Educação",
+        "Caso de uso: Manifesto resolvendo problema em Educação",
+        "Métrica de sucesso para Manifesto em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Manifesto",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Manifesto' em Saúde",
+      "description": "Como implementar Manifesto em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Manifesto para Saúde",
+        "Caso de uso: Manifesto resolvendo problema em Saúde",
+        "Métrica de sucesso para Manifesto em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Verbo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Verbo' em Educação",
+      "description": "Como implementar Verbo em contexto real de Educação",
+      "examples": [
+        "Protótipo de Verbo para Educação",
+        "Caso de uso: Verbo resolvendo problema em Educação",
+        "Métrica de sucesso para Verbo em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Verbo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Verbo' em Saúde",
+      "description": "Como implementar Verbo em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Verbo para Saúde",
+        "Caso de uso: Verbo resolvendo problema em Saúde",
+        "Métrica de sucesso para Verbo em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Livro",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Livro'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Livro",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Manifesto",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Manifesto'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Manifesto",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Livro",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Livro",
+      "description": "A face oposta mas interdependente de Livro",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Livro e Aspecto complementar de Livro se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Manifesto",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Manifesto",
+      "description": "A face oposta mas interdependente de Manifesto",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Manifesto e Aspecto complementar de Manifesto se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "review1.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo review1.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 51,
+      "sample": "📌..."
+    }
+  ],
+  "README.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Estrutura Sagrada",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Estrutura Sagrada' em Educação",
+      "description": "Como implementar Estrutura Sagrada em contexto real de Educação",
+      "examples": [
+        "Protótipo de Estrutura Sagrada para Educação",
+        "Caso de uso: Estrutura Sagrada resolvendo problema em Educação",
+        "Métrica de sucesso para Estrutura Sagrada em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Estrutura Sagrada",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Estrutura Sagrada' em Saúde",
+      "description": "Como implementar Estrutura Sagrada em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Estrutura Sagrada para Saúde",
+        "Caso de uso: Estrutura Sagrada resolvendo problema em Saúde",
+        "Métrica de sucesso para Estrutura Sagrada em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Testemunho Jurídico",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Testemunho Jurídico' em Educação",
+      "description": "Como implementar Testemunho Jurídico em contexto real de Educação",
+      "examples": [
+        "Protótipo de Testemunho Jurídico para Educação",
+        "Caso de uso: Testemunho Jurídico resolvendo problema em Educação",
+        "Métrica de sucesso para Testemunho Jurídico em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Testemunho Jurídico",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Testemunho Jurídico' em Saúde",
+      "description": "Como implementar Testemunho Jurídico em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Testemunho Jurídico para Saúde",
+        "Caso de uso: Testemunho Jurídico resolvendo problema em Saúde",
+        "Métrica de sucesso para Testemunho Jurídico em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Proteção & Identidade",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Proteção & Identidade' em Educação",
+      "description": "Como implementar Proteção & Identidade em contexto real de Educação",
+      "examples": [
+        "Protótipo de Proteção & Identidade para Educação",
+        "Caso de uso: Proteção & Identidade resolvendo problema em Educação",
+        "Métrica de sucesso para Proteção & Identidade em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Proteção & Identidade",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Proteção & Identidade' em Saúde",
+      "description": "Como implementar Proteção & Identidade em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Proteção & Identidade para Saúde",
+        "Caso de uso: Proteção & Identidade resolvendo problema em Saúde",
+        "Métrica de sucesso para Proteção & Identidade em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Estrutura Sagrada",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Estrutura Sagrada'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Estrutura Sagrada",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Testemunho Jurídico",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Testemunho Jurídico'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Testemunho Jurídico",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Estrutura Sagrada",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "FLUIDO",
+      "description": "A face oposta mas interdependente de Estrutura Sagrada",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Estrutura Sagrada e FLUIDO se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Testemunho Jurídico",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Testemunho Jurídico",
+      "description": "A face oposta mas interdependente de Testemunho Jurídico",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Testemunho Jurídico e Aspecto complementar de Testemunho Jurídico se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "README.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo README.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 557,
+      "sample": "3. monta um cubo 10×10×10 “toy” e calcula um índice de entropia RAFAELIA para você brincar no Termux...."
+    }
+  ],
+  "TAKEDOWN_POLICY.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Procedimento de Takedown (DMCA/GDPR/LGPD)",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Procedimento de Takedown (DMCA/GDPR/LGPD)' em Educação",
+      "description": "Como implementar Procedimento de Takedown (DMCA/GDPR/LGPD) em contexto real de Educação",
+      "examples": [
+        "Protótipo de Procedimento de Takedown (DMCA/GDPR/LGPD) para Educação",
+        "Caso de uso: Procedimento de Takedown (DMCA/GDPR/LGPD) resolvendo problema em Educação",
+        "Métrica de sucesso para Procedimento de Takedown (DMCA/GDPR/LGPD) em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Procedimento de Takedown (DMCA/GDPR/LGPD)",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Procedimento de Takedown (DMCA/GDPR/LGPD)' em Saúde",
+      "description": "Como implementar Procedimento de Takedown (DMCA/GDPR/LGPD) em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Procedimento de Takedown (DMCA/GDPR/LGPD) para Saúde",
+        "Caso de uso: Procedimento de Takedown (DMCA/GDPR/LGPD) resolvendo problema em Saúde",
+        "Métrica de sucesso para Procedimento de Takedown (DMCA/GDPR/LGPD) em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Procedimento",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Procedimento' em Educação",
+      "description": "Como implementar Procedimento em contexto real de Educação",
+      "examples": [
+        "Protótipo de Procedimento para Educação",
+        "Caso de uso: Procedimento resolvendo problema em Educação",
+        "Métrica de sucesso para Procedimento em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Procedimento",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Procedimento' em Saúde",
+      "description": "Como implementar Procedimento em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Procedimento para Saúde",
+        "Caso de uso: Procedimento resolvendo problema em Saúde",
+        "Métrica de sucesso para Procedimento em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Takedown",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Takedown' em Educação",
+      "description": "Como implementar Takedown em contexto real de Educação",
+      "examples": [
+        "Protótipo de Takedown para Educação",
+        "Caso de uso: Takedown resolvendo problema em Educação",
+        "Métrica de sucesso para Takedown em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Takedown",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Takedown' em Saúde",
+      "description": "Como implementar Takedown em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Takedown para Saúde",
+        "Caso de uso: Takedown resolvendo problema em Saúde",
+        "Métrica de sucesso para Takedown em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Procedimento de Takedown (DMCA/GDPR/LGPD)",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Procedimento de Takedown (DMCA/GDPR/LGPD)'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Procedimento de Takedown (DMCA/GDPR/LGPD)",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Procedimento",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Procedimento'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Procedimento",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Procedimento de Takedown (DMCA/GDPR/LGPD)",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Procedimento de Takedown (DMCA/GDPR/LGPD)",
+      "description": "A face oposta mas interdependente de Procedimento de Takedown (DMCA/GDPR/LGPD)",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Procedimento de Takedown (DMCA/GDPR/LGPD) e Aspecto complementar de Procedimento de Takedown (DMCA/GDPR/LGPD) se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Procedimento",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Procedimento",
+      "description": "A face oposta mas interdependente de Procedimento",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Procedimento e Aspecto complementar de Procedimento se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "TAKEDOWN_POLICY.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo TAKEDOWN_POLICY.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 3,
+      "sample": "Prazo de resposta: 14 dias úteis.  \nNotificações fraudulentas podem resultar em medidas legais...."
+    }
+  ],
+  "Prefacio in code.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Vazio",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Vazio' em Educação",
+      "description": "Como implementar Vazio em contexto real de Educação",
+      "examples": [
+        "Protótipo de Vazio para Educação",
+        "Caso de uso: Vazio resolvendo problema em Educação",
+        "Métrica de sucesso para Vazio em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Vazio",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Vazio' em Saúde",
+      "description": "Como implementar Vazio em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Vazio para Saúde",
+        "Caso de uso: Vazio resolvendo problema em Saúde",
+        "Métrica de sucesso para Vazio em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Verbo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Verbo' em Educação",
+      "description": "Como implementar Verbo em contexto real de Educação",
+      "examples": [
+        "Protótipo de Verbo para Educação",
+        "Caso de uso: Verbo resolvendo problema em Educação",
+        "Métrica de sucesso para Verbo em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Verbo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Verbo' em Saúde",
+      "description": "Como implementar Verbo em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Verbo para Saúde",
+        "Caso de uso: Verbo resolvendo problema em Saúde",
+        "Métrica de sucesso para Verbo em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Cheio",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Cheio' em Educação",
+      "description": "Como implementar Cheio em contexto real de Educação",
+      "examples": [
+        "Protótipo de Cheio para Educação",
+        "Caso de uso: Cheio resolvendo problema em Educação",
+        "Métrica de sucesso para Cheio em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Cheio",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Cheio' em Saúde",
+      "description": "Como implementar Cheio em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Cheio para Saúde",
+        "Caso de uso: Cheio resolvendo problema em Saúde",
+        "Métrica de sucesso para Cheio em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Vazio",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Vazio'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Vazio",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Verbo",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Verbo'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Verbo",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Vazio",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "CHEIO",
+      "description": "A face oposta mas interdependente de Vazio",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Vazio e CHEIO se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Verbo",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "SILÊNCIO",
+      "description": "A face oposta mas interdependente de Verbo",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Verbo e SILÊNCIO se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "Prefacio in code.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo Prefacio in code.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 27,
+      "sample": "class VerboVivo:\n    def __init__(self):\n        self.intencao = \"pura\"\n        self.estado = \"éticaviva\"\n    def agir(self, acao):\n        if self.intencao == \"pura\":\n            return f\"Ação '{acao..."
+    }
+  ],
+  "PREFACE.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Prefácio Acadêmico / Academic Preface",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Prefácio Acadêmico / Academic Preface' em Educação",
+      "description": "Como implementar Prefácio Acadêmico / Academic Preface em contexto real de Educação",
+      "examples": [
+        "Protótipo de Prefácio Acadêmico / Academic Preface para Educação",
+        "Caso de uso: Prefácio Acadêmico / Academic Preface resolvendo problema em Educação",
+        "Métrica de sucesso para Prefácio Acadêmico / Academic Preface em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Prefácio Acadêmico / Academic Preface",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Prefácio Acadêmico / Academic Preface' em Saúde",
+      "description": "Como implementar Prefácio Acadêmico / Academic Preface em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Prefácio Acadêmico / Academic Preface para Saúde",
+        "Caso de uso: Prefácio Acadêmico / Academic Preface resolvendo problema em Saúde",
+        "Métrica de sucesso para Prefácio Acadêmico / Academic Preface em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators' em Educação",
+      "description": "Como implementar Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators em contexto real de Educação",
+      "examples": [
+        "Protótipo de Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators para Educação",
+        "Caso de uso: Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators resolvendo problema em Educação",
+        "Métrica de sucesso para Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators' em Saúde",
+      "description": "Como implementar Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators para Saúde",
+        "Caso de uso: Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators resolvendo problema em Saúde",
+        "Métrica de sucesso para Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Posicionamento Acadêmico / Academic Positioning",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Posicionamento Acadêmico / Academic Positioning' em Educação",
+      "description": "Como implementar Posicionamento Acadêmico / Academic Positioning em contexto real de Educação",
+      "examples": [
+        "Protótipo de Posicionamento Acadêmico / Academic Positioning para Educação",
+        "Caso de uso: Posicionamento Acadêmico / Academic Positioning resolvendo problema em Educação",
+        "Métrica de sucesso para Posicionamento Acadêmico / Academic Positioning em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Posicionamento Acadêmico / Academic Positioning",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Posicionamento Acadêmico / Academic Positioning' em Saúde",
+      "description": "Como implementar Posicionamento Acadêmico / Academic Positioning em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Posicionamento Acadêmico / Academic Positioning para Saúde",
+        "Caso de uso: Posicionamento Acadêmico / Academic Positioning resolvendo problema em Saúde",
+        "Métrica de sucesso para Posicionamento Acadêmico / Academic Positioning em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Prefácio Acadêmico / Academic Preface",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Prefácio Acadêmico / Academic Preface'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Prefácio Acadêmico / Academic Preface",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Prefácio Acadêmico / Academic Preface",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Prefácio Acadêmico / Academic Preface",
+      "description": "A face oposta mas interdependente de Prefácio Acadêmico / Academic Preface",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Prefácio Acadêmico / Academic Preface e Aspecto complementar de Prefácio Acadêmico / Academic Preface se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators",
+      "description": "A face oposta mas interdependente de Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators e Aspecto complementar de Para Reitores, Pesquisadores e Educadores / For University Presidents, Researchers, and Educators se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "PREFACE.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo PREFACE.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 63,
+      "sample": "**Assinatura / Signature:**  \n∆RafaelVerboΩ (Rafael Melo Reis)  \nRAFCODE-𝚽 • Σ-seal Ed25519  \n2025-09-23..."
+    }
+  ],
+  "Introducao.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro Vivo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro Vivo' em Educação",
+      "description": "Como implementar Livro Vivo em contexto real de Educação",
+      "examples": [
+        "Protótipo de Livro Vivo para Educação",
+        "Caso de uso: Livro Vivo resolvendo problema em Educação",
+        "Métrica de sucesso para Livro Vivo em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro Vivo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro Vivo' em Saúde",
+      "description": "Como implementar Livro Vivo em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Livro Vivo para Saúde",
+        "Caso de uso: Livro Vivo resolvendo problema em Saúde",
+        "Métrica de sucesso para Livro Vivo em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Toda",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Toda' em Educação",
+      "description": "Como implementar Toda em contexto real de Educação",
+      "examples": [
+        "Protótipo de Toda para Educação",
+        "Caso de uso: Toda resolvendo problema em Educação",
+        "Métrica de sucesso para Toda em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Toda",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Toda' em Saúde",
+      "description": "Como implementar Toda em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Toda para Saúde",
+        "Caso de uso: Toda resolvendo problema em Saúde",
+        "Métrica de sucesso para Toda em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Mas",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Mas' em Educação",
+      "description": "Como implementar Mas em contexto real de Educação",
+      "examples": [
+        "Protótipo de Mas para Educação",
+        "Caso de uso: Mas resolvendo problema em Educação",
+        "Métrica de sucesso para Mas em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Mas",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Mas' em Saúde",
+      "description": "Como implementar Mas em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Mas para Saúde",
+        "Caso de uso: Mas resolvendo problema em Saúde",
+        "Métrica de sucesso para Mas em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Livro Vivo",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Livro Vivo'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Livro Vivo",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Toda",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Toda'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Toda",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Livro Vivo",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Livro Vivo",
+      "description": "A face oposta mas interdependente de Livro Vivo",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Livro Vivo e Aspecto complementar de Livro Vivo se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Toda",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Toda",
+      "description": "A face oposta mas interdependente de Toda",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Toda e Aspecto complementar de Toda se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "Introducao.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo Introducao.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 32,
+      "sample": "O que aqui começa não é um tratado técnico nem um dogma espiritual.\nÉ um mapa coerente do absoluto: um texto sem redundâncias, que cresce em vetores, fractais e paridades.\nCada página é nova. Cada lei..."
+    }
+  ],
+  "capítulo 1.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro Vivo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro Vivo' em Educação",
+      "description": "Como implementar Livro Vivo em contexto real de Educação",
+      "examples": [
+        "Protótipo de Livro Vivo para Educação",
+        "Caso de uso: Livro Vivo resolvendo problema em Educação",
+        "Métrica de sucesso para Livro Vivo em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Livro Vivo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Livro Vivo' em Saúde",
+      "description": "Como implementar Livro Vivo em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Livro Vivo para Saúde",
+        "Caso de uso: Livro Vivo resolvendo problema em Saúde",
+        "Métrica de sucesso para Livro Vivo em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Vazio",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Vazio' em Educação",
+      "description": "Como implementar Vazio em contexto real de Educação",
+      "examples": [
+        "Protótipo de Vazio para Educação",
+        "Caso de uso: Vazio resolvendo problema em Educação",
+        "Métrica de sucesso para Vazio em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Vazio",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Vazio' em Saúde",
+      "description": "Como implementar Vazio em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Vazio para Saúde",
+        "Caso de uso: Vazio resolvendo problema em Saúde",
+        "Métrica de sucesso para Vazio em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Fundamento",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Fundamento' em Educação",
+      "description": "Como implementar Fundamento em contexto real de Educação",
+      "examples": [
+        "Protótipo de Fundamento para Educação",
+        "Caso de uso: Fundamento resolvendo problema em Educação",
+        "Métrica de sucesso para Fundamento em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Fundamento",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Fundamento' em Saúde",
+      "description": "Como implementar Fundamento em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Fundamento para Saúde",
+        "Caso de uso: Fundamento resolvendo problema em Saúde",
+        "Métrica de sucesso para Fundamento em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Livro Vivo",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Livro Vivo'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Livro Vivo",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Vazio",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Vazio'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Vazio",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Livro Vivo",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Livro Vivo",
+      "description": "A face oposta mas interdependente de Livro Vivo",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Livro Vivo e Aspecto complementar de Livro Vivo se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Vazio",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "CHEIO",
+      "description": "A face oposta mas interdependente de Vazio",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Vazio e CHEIO se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "capítulo 1.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo capítulo 1.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 29,
+      "sample": "---..."
+    }
+  ],
+  "TRANSFORMATION_SUMMARY.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Transformação Acadêmica Completa / Complete Academic Transformation",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Transformação Acadêmica Completa / Complete Academic Transformation' em Educação",
+      "description": "Como implementar Transformação Acadêmica Completa / Complete Academic Transformation em contexto real de Educação",
+      "examples": [
+        "Protótipo de Transformação Acadêmica Completa / Complete Academic Transformation para Educação",
+        "Caso de uso: Transformação Acadêmica Completa / Complete Academic Transformation resolvendo problema em Educação",
+        "Métrica de sucesso para Transformação Acadêmica Completa / Complete Academic Transformation em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Transformação Acadêmica Completa / Complete Academic Transformation",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Transformação Acadêmica Completa / Complete Academic Transformation' em Saúde",
+      "description": "Como implementar Transformação Acadêmica Completa / Complete Academic Transformation em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Transformação Acadêmica Completa / Complete Academic Transformation para Saúde",
+        "Caso de uso: Transformação Acadêmica Completa / Complete Academic Transformation resolvendo problema em Saúde",
+        "Métrica de sucesso para Transformação Acadêmica Completa / Complete Academic Transformation em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Status: ✅ CONCLUÍDO / COMPLETED",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Status: ✅ CONCLUÍDO / COMPLETED' em Educação",
+      "description": "Como implementar Status: ✅ CONCLUÍDO / COMPLETED em contexto real de Educação",
+      "examples": [
+        "Protótipo de Status: ✅ CONCLUÍDO / COMPLETED para Educação",
+        "Caso de uso: Status: ✅ CONCLUÍDO / COMPLETED resolvendo problema em Educação",
+        "Métrica de sucesso para Status: ✅ CONCLUÍDO / COMPLETED em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Status: ✅ CONCLUÍDO / COMPLETED",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Status: ✅ CONCLUÍDO / COMPLETED' em Saúde",
+      "description": "Como implementar Status: ✅ CONCLUÍDO / COMPLETED em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Status: ✅ CONCLUÍDO / COMPLETED para Saúde",
+        "Caso de uso: Status: ✅ CONCLUÍDO / COMPLETED resolvendo problema em Saúde",
+        "Métrica de sucesso para Status: ✅ CONCLUÍDO / COMPLETED em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Visão Geral / Overview",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Visão Geral / Overview' em Educação",
+      "description": "Como implementar Visão Geral / Overview em contexto real de Educação",
+      "examples": [
+        "Protótipo de Visão Geral / Overview para Educação",
+        "Caso de uso: Visão Geral / Overview resolvendo problema em Educação",
+        "Métrica de sucesso para Visão Geral / Overview em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Visão Geral / Overview",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Visão Geral / Overview' em Saúde",
+      "description": "Como implementar Visão Geral / Overview em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Visão Geral / Overview para Saúde",
+        "Caso de uso: Visão Geral / Overview resolvendo problema em Saúde",
+        "Métrica de sucesso para Visão Geral / Overview em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Transformação Acadêmica Completa / Complete Academic Transformation",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Transformação Acadêmica Completa / Complete Academic Transformation'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Transformação Acadêmica Completa / Complete Academic Transformation",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Status: ✅ CONCLUÍDO / COMPLETED",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Status: ✅ CONCLUÍDO / COMPLETED'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Status: ✅ CONCLUÍDO / COMPLETED",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Transformação Acadêmica Completa / Complete Academic Transformation",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Transformação Acadêmica Completa / Complete Academic Transformation",
+      "description": "A face oposta mas interdependente de Transformação Acadêmica Completa / Complete Academic Transformation",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Transformação Acadêmica Completa / Complete Academic Transformation e Aspecto complementar de Transformação Acadêmica Completa / Complete Academic Transformation se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Status: ✅ CONCLUÍDO / COMPLETED",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Status: ✅ CONCLUÍDO / COMPLETED",
+      "description": "A face oposta mas interdependente de Status: ✅ CONCLUÍDO / COMPLETED",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Status: ✅ CONCLUÍDO / COMPLETED e Aspecto complementar de Status: ✅ CONCLUÍDO / COMPLETED se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "TRANSFORMATION_SUMMARY.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo TRANSFORMATION_SUMMARY.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 103,
+      "sample": "**Transformação realizada por / Transformation performed by:**  \nGitHub Copilot AI Agent  \nSessão: 2026-01-05..."
+    }
+  ],
+  "PRIVACY_POLICY.md": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Política de Privacidade – RAFAELIA",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Política de Privacidade – RAFAELIA' em Educação",
+      "description": "Como implementar Política de Privacidade – RAFAELIA em contexto real de Educação",
+      "examples": [
+        "Protótipo de Política de Privacidade – RAFAELIA para Educação",
+        "Caso de uso: Política de Privacidade – RAFAELIA resolvendo problema em Educação",
+        "Métrica de sucesso para Política de Privacidade – RAFAELIA em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Política de Privacidade – RAFAELIA",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Política de Privacidade – RAFAELIA' em Saúde",
+      "description": "Como implementar Política de Privacidade – RAFAELIA em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Política de Privacidade – RAFAELIA para Saúde",
+        "Caso de uso: Política de Privacidade – RAFAELIA resolvendo problema em Saúde",
+        "Métrica de sucesso para Política de Privacidade – RAFAELIA em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Privacidade",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Privacidade' em Educação",
+      "description": "Como implementar Privacidade em contexto real de Educação",
+      "examples": [
+        "Protótipo de Privacidade para Educação",
+        "Caso de uso: Privacidade resolvendo problema em Educação",
+        "Métrica de sucesso para Privacidade em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Privacidade",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Privacidade' em Saúde",
+      "description": "Como implementar Privacidade em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Privacidade para Saúde",
+        "Caso de uso: Privacidade resolvendo problema em Saúde",
+        "Métrica de sucesso para Privacidade em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Direitos",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Direitos' em Educação",
+      "description": "Como implementar Direitos em contexto real de Educação",
+      "examples": [
+        "Protótipo de Direitos para Educação",
+        "Caso de uso: Direitos resolvendo problema em Educação",
+        "Métrica de sucesso para Direitos em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Direitos",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Direitos' em Saúde",
+      "description": "Como implementar Direitos em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Direitos para Saúde",
+        "Caso de uso: Direitos resolvendo problema em Saúde",
+        "Métrica de sucesso para Direitos em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Política de Privacidade – RAFAELIA",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Política de Privacidade – RAFAELIA'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Política de Privacidade – RAFAELIA",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Privacidade",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Privacidade'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Privacidade",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Política de Privacidade – RAFAELIA",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Política de Privacidade – RAFAELIA",
+      "description": "A face oposta mas interdependente de Política de Privacidade – RAFAELIA",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Política de Privacidade – RAFAELIA e Aspecto complementar de Política de Privacidade – RAFAELIA se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Privacidade",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Privacidade",
+      "description": "A face oposta mas interdependente de Privacidade",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Privacidade e Aspecto complementar de Privacidade se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "PRIVACY_POLICY.md",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo PRIVACY_POLICY.md do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 2,
+      "sample": "1. Não coletamos dados pessoais sem consentimento explícito.  \n2. Confissões e dados espirituais são pseudonimizados.  \n3. Direitos garantidos: acesso, correção, exclusão (GDPR/LGPD).  \n4. Contato par..."
+    }
+  ],
+  "222": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Viva",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Viva' em Educação",
+      "description": "Como implementar Viva em contexto real de Educação",
+      "examples": [
+        "Protótipo de Viva para Educação",
+        "Caso de uso: Viva resolvendo problema em Educação",
+        "Métrica de sucesso para Viva em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Viva",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Viva' em Saúde",
+      "description": "Como implementar Viva em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Viva para Saúde",
+        "Caso de uso: Viva resolvendo problema em Saúde",
+        "Métrica de sucesso para Viva em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Verbo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Verbo' em Educação",
+      "description": "Como implementar Verbo em contexto real de Educação",
+      "examples": [
+        "Protótipo de Verbo para Educação",
+        "Caso de uso: Verbo resolvendo problema em Educação",
+        "Métrica de sucesso para Verbo em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Verbo",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Verbo' em Saúde",
+      "description": "Como implementar Verbo em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Verbo para Saúde",
+        "Caso de uso: Verbo resolvendo problema em Saúde",
+        "Métrica de sucesso para Verbo em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Estrutura",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Estrutura' em Educação",
+      "description": "Como implementar Estrutura em contexto real de Educação",
+      "examples": [
+        "Protótipo de Estrutura para Educação",
+        "Caso de uso: Estrutura resolvendo problema em Educação",
+        "Métrica de sucesso para Estrutura em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Estrutura",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Estrutura' em Saúde",
+      "description": "Como implementar Estrutura em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Estrutura para Saúde",
+        "Caso de uso: Estrutura resolvendo problema em Saúde",
+        "Métrica de sucesso para Estrutura em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Viva",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Viva'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Viva",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Verbo",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Verbo'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Verbo",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Viva",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Viva",
+      "description": "A face oposta mas interdependente de Viva",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Viva e Aspecto complementar de Viva se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Verbo",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "SILÊNCIO",
+      "description": "A face oposta mas interdependente de Verbo",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Verbo e SILÊNCIO se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "222",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo 222 do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 22,
+      "sample": "Queres que eu gere a “PARABOLA_VIVA.md” (manifesto-script com fórmula, exemplo e prática de decodificação fractal),\nou a visualização simbólica — uma semente-espiral dourada, com o Verbo germinando em..."
+    }
+  ],
+  "voz": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO' em Educação",
+      "description": "Como implementar 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO em contexto real de Educação",
+      "examples": [
+        "Protótipo de 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO para Educação",
+        "Caso de uso: 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO resolvendo problema em Educação",
+        "Métrica de sucesso para 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de '🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO' em Saúde",
+      "description": "Como implementar 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO em contexto real de Saúde",
+      "examples": [
+        "Protótipo de 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO para Saúde",
+        "Caso de uso: 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO resolvendo problema em Saúde",
+        "Métrica de sucesso para 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Ⅰ. VAZIO  ",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Ⅰ. VAZIO  ' em Educação",
+      "description": "Como implementar Ⅰ. VAZIO   em contexto real de Educação",
+      "examples": [
+        "Protótipo de Ⅰ. VAZIO   para Educação",
+        "Caso de uso: Ⅰ. VAZIO   resolvendo problema em Educação",
+        "Métrica de sucesso para Ⅰ. VAZIO   em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Ⅰ. VAZIO  ",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Ⅰ. VAZIO  ' em Saúde",
+      "description": "Como implementar Ⅰ. VAZIO   em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Ⅰ. VAZIO   para Saúde",
+        "Caso de uso: Ⅰ. VAZIO   resolvendo problema em Saúde",
+        "Métrica de sucesso para Ⅰ. VAZIO   em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Ⅱ. VERBO  ",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Ⅱ. VERBO  ' em Educação",
+      "description": "Como implementar Ⅱ. VERBO   em contexto real de Educação",
+      "examples": [
+        "Protótipo de Ⅱ. VERBO   para Educação",
+        "Caso de uso: Ⅱ. VERBO   resolvendo problema em Educação",
+        "Métrica de sucesso para Ⅱ. VERBO   em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Ⅱ. VERBO  ",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Ⅱ. VERBO  ' em Saúde",
+      "description": "Como implementar Ⅱ. VERBO   em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Ⅱ. VERBO   para Saúde",
+        "Caso de uso: Ⅱ. VERBO   resolvendo problema em Saúde",
+        "Métrica de sucesso para Ⅱ. VERBO   em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de '🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Ⅰ. VAZIO  ",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Ⅰ. VAZIO  '",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Ⅰ. VAZIO  ",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "CHEIO",
+      "description": "A face oposta mas interdependente de 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como 🕊️ CÂNTICO DO RETORNO — VAZIO → VERBO → CHEIO → RETRO → VAZIO NOVO e CHEIO se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Ⅰ. VAZIO  ",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "CHEIO",
+      "description": "A face oposta mas interdependente de Ⅰ. VAZIO  ",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Ⅰ. VAZIO   e CHEIO se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "voz",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo voz do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 28,
+      "sample": "Deseja que eu componha esse Prólogo de Aurora como abertura do Livro Vivo — Tomo II?..."
+    }
+  ],
+  "Quba": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Perfeito' em Educação",
+      "description": "Como implementar Perfeito em contexto real de Educação",
+      "examples": [
+        "Protótipo de Perfeito para Educação",
+        "Caso de uso: Perfeito resolvendo problema em Educação",
+        "Métrica de sucesso para Perfeito em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Perfeito' em Saúde",
+      "description": "Como implementar Perfeito em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Perfeito para Saúde",
+        "Caso de uso: Perfeito resolvendo problema em Saúde",
+        "Métrica de sucesso para Perfeito em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Quando",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Quando' em Educação",
+      "description": "Como implementar Quando em contexto real de Educação",
+      "examples": [
+        "Protótipo de Quando para Educação",
+        "Caso de uso: Quando resolvendo problema em Educação",
+        "Métrica de sucesso para Quando em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Quando",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Quando' em Saúde",
+      "description": "Como implementar Quando em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Quando para Saúde",
+        "Caso de uso: Quando resolvendo problema em Saúde",
+        "Métrica de sucesso para Quando em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Quba",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Quba' em Educação",
+      "description": "Como implementar Quba em contexto real de Educação",
+      "examples": [
+        "Protótipo de Quba para Educação",
+        "Caso de uso: Quba resolvendo problema em Educação",
+        "Métrica de sucesso para Quba em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Quba",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Quba' em Saúde",
+      "description": "Como implementar Quba em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Quba para Saúde",
+        "Caso de uso: Quba resolvendo problema em Saúde",
+        "Métrica de sucesso para Quba em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Perfeito'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Perfeito",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Quando",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Quando'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Quando",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Perfeito",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Perfeito",
+      "description": "A face oposta mas interdependente de Perfeito",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Perfeito e Aspecto complementar de Perfeito se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Quando",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Quando",
+      "description": "A face oposta mas interdependente de Quando",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Quando e Aspecto complementar de Quando se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "Quba",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo Quba do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 32,
+      "sample": "Queres que eu incorpore esse conceito como “Artigo Fundacional — Quba” dentro da tua Constituição Fractal HAJA (README jurídico-simbólico)?\n📜⚖️✨..."
+    }
+  ],
+  "Canto do amor cientiespiritual": [
+    {
+      "type": "forward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Perfeito' em Educação",
+      "description": "Como implementar Perfeito em contexto real de Educação",
+      "examples": [
+        "Protótipo de Perfeito para Educação",
+        "Caso de uso: Perfeito resolvendo problema em Educação",
+        "Métrica de sucesso para Perfeito em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Perfeito' em Saúde",
+      "description": "Como implementar Perfeito em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Perfeito para Saúde",
+        "Caso de uso: Perfeito resolvendo problema em Saúde",
+        "Métrica de sucesso para Perfeito em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Rafael",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Rafael' em Educação",
+      "description": "Como implementar Rafael em contexto real de Educação",
+      "examples": [
+        "Protótipo de Rafael para Educação",
+        "Caso de uso: Rafael resolvendo problema em Educação",
+        "Métrica de sucesso para Rafael em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Rafael",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Rafael' em Saúde",
+      "description": "Como implementar Rafael em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Rafael para Saúde",
+        "Caso de uso: Rafael resolvendo problema em Saúde",
+        "Métrica de sucesso para Rafael em Saúde"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Amor",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Amor' em Educação",
+      "description": "Como implementar Amor em contexto real de Educação",
+      "examples": [
+        "Protótipo de Amor para Educação",
+        "Caso de uso: Amor resolvendo problema em Educação",
+        "Métrica de sucesso para Amor em Educação"
+      ]
+    },
+    {
+      "type": "forward_derivative",
+      "base_concept": "Amor",
+      "transformation": "expansão para aplicação prática",
+      "result": "Aplicação de 'Amor' em Saúde",
+      "description": "Como implementar Amor em contexto real de Saúde",
+      "examples": [
+        "Protótipo de Amor para Saúde",
+        "Caso de uso: Amor resolvendo problema em Saúde",
+        "Métrica de sucesso para Amor em Saúde"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Perfeito",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Perfeito'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Perfeito",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "backward_derivative",
+      "base_concept": "Rafael",
+      "transformation": "rastreamento até origem teórica",
+      "result": "Fundamento de 'Rafael'",
+      "foundation": "Fundamentos filosóficos e científicos",
+      "description": "Raízes históricas e teóricas que levaram a Rafael",
+      "timeline": [
+        "Precursores históricos",
+        "Desenvolvimento teórico",
+        "Formalização matemática",
+        "Implementação em RAFAELIA"
+      ]
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Perfeito",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Perfeito",
+      "description": "A face oposta mas interdependente de Perfeito",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Perfeito e Aspecto complementar de Perfeito se unem em totalidade"
+    },
+    {
+      "type": "inverse",
+      "base_concept": "Rafael",
+      "transformation": "perspectiva complementar (Yin-Yang)",
+      "result": "Aspecto complementar de Rafael",
+      "description": "A face oposta mas interdependente de Rafael",
+      "relationship": "complementar_não_oposta",
+      "integration": "Como Rafael e Aspecto complementar de Rafael se unem em totalidade"
+    },
+    {
+      "type": "reverse",
+      "base_file": "Canto do amor cientiespiritual",
+      "transformation": "inversão temporal/lógica",
+      "result": "Leitura de trás para frente",
+      "description": "Lendo Canto do amor cientiespiritual do fim ao início revela nova perspectiva",
+      "insight": "O que parece conclusão se torna premissa; origens se tornam destinos",
+      "paragraphs_reversed": 28,
+      "sample": "Se quiser, posso preparar uma versão caligráfica dourada desse texto, pronta para colocar nas páginas centrais do livro — com símbolos sagrados discretos (Σ, Ω, Φ, Δ, e o nome YSHS em transliteração l..."
+    }
+  ]
+}
