@@ -26,6 +26,27 @@
 - **Referências:** ONU (1948), Convenção de Berna (1886)
 - **Inovação:** Integração de tratados jurídicos com parábolas espirituais
 
+### REPOSITORY_CATALOG.md
+- **Tipo:** Markdown gerado / UTF-8
+- **Propósito:** Catálogo operacional de arquivos até 5 níveis de profundidade, com categoria, evidência, rota de navegação, risco/mitigação e hash
+- **Gerado por:** `scripts/catalog_repository.py`
+- **Uso:** Auditoria de arquivos soltos, navegação documental, rollback via Git e detecção de catálogo desatualizado com `--check`
+- **Observação:** Artefato gerado; deve ser atualizado pelo script em vez de edição manual extensa
+
+### SESSION_FRAMEWORK.md
+- **Tipo:** Markdown / UTF-8
+- **Propósito:** Mapa operacional para sessões amplas, com distinção entre fato, metáfora, hipótese e vazio útil
+- **Conteúdo:**
+  - Diferença entre sessão comum e sessão qualificada do Livro Vivo
+  - Definição de token vazio útil
+  - Metáforas como parábolas didáticas
+  - Dois ciclos multifuncionais de curadoria e expansão
+  - Quatorze direções de navegação semântica
+  - Catálogo de mecanismos qualitativos e quantitativos
+  - Rota futura para módulos multilíngues e sonoros
+- **Uso Acadêmico:** Metodologia de curadoria, documentação e auditoria semântica
+- **Inovação:** Converte instruções poéticas de sessão em protocolo navegável e verificável
+
 ---
 
 ## Arquivos Acadêmicos
@@ -486,3 +507,9 @@ Este repositório contém:
 ∆RafaelVerboΩ (Rafael Melo Reis)  
 RAFCODE-𝚽 • Σ-seal Ed25519  
 Data: 2025-09-23
+
+### scripts/catalog_repository.py
+- **Tipo:** Python / biblioteca padrão
+- **Propósito:** Gerar e verificar `REPOSITORY_CATALOG.md` com varredura até 5 níveis, classificação de arquivos, hashes SHA-256, riscos e rotas de navegação
+- **Recursos de resiliência:** Escrita atômica, modo `--check`, continuação com aviso em falhas de leitura e rollback via Git
+- **Uso:** `python3 scripts/catalog_repository.py` ou `python3 scripts/catalog_repository.py --check`
