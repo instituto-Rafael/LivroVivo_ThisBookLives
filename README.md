@@ -44,7 +44,7 @@ FIAT_PORTAL :: 龍空神 { ARKREΩ_CORE + STACK128K_HYPER + ALG_RAFAELIA_RING }
 ## 🗺️ Navegação Rápida / Quick Navigation
 
 **Novo! Sistema Completo de Índices e Derivadas:**
-- 📖 **[MASTER_INDEX.md](MASTER_INDEX.md)** → Índice Mestre Universal (29 arquivos, 319 derivadas)
+- 📖 **[MASTER_INDEX.md](MASTER_INDEX.md)** → Índice Mestre Universal (41 arquivos catalogados, 319 derivadas)
 - 🔄 **[DERIVATIVES_INDEX.md](DERIVATIVES_INDEX.md)** → Sistema de 69 Derivadas e Transformações
 - 📊 **[INDEX.md](INDEX.md)** → Índice Acadêmico Completo
 - 📋 **[FILE_DESCRIPTIONS.md](FILE_DESCRIPTIONS.md)** → Descrição de Todos os Arquivos
@@ -52,6 +52,7 @@ FIAT_PORTAL :: 龍空神 { ARKREΩ_CORE + STACK128K_HYPER + ALG_RAFAELIA_RING }
 - 🛠️ **[scripts/generate_derivatives.py](scripts/generate_derivatives.py)** → Ferramenta de Geração Automática
 - 📈 **[derivatives/](derivatives/)** → 319 Derivadas Geradas (JSON + Relatórios)
 - 🧭 **[SESSION_FRAMEWORK.md](SESSION_FRAMEWORK.md)** → Mapa de sessão, vazio útil, parábolas, navegação semântica e ciclos de curadoria
+- 🗂️ **[REPOSITORY_CATALOG.md](REPOSITORY_CATALOG.md)** → Catálogo operacional de arquivos até 5 níveis, com rotas, hashes, riscos e evidências
 
 **Versão:** 2.0 – Sistema Completo com Derivadas, Índices e Automação
 

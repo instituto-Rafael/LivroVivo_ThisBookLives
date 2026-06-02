@@ -11,14 +11,16 @@
 ## 🗺️ Navegação Inteligente / Intelligent Navigation
 
 Este é o **Índice Mestre** que conecta TODOS os elementos do Livro Vivo, incluindo:
-- 29 arquivos originais
+- 41 arquivos catalogados até 5 níveis
+- 29 fontes documentais processadas para derivadas
 - 319 derivadas geradas
 - Referências cruzadas
 - Scripts e ferramentas
 - Dados e recursos
 
 This is the **Master Index** that connects ALL elements of the Living Book, including:
-- 29 original files
+- 41 files cataloged up to 5 levels
+- 29 documentary sources processed for derivatives
 - 319 generated derivatives
 - Cross-references
 - Scripts and tools
@@ -58,6 +60,7 @@ LivroVivo_ThisBookLives/
 │   ├── MASTER_INDEX.md ............... Este arquivo / This file
 │   ├── TRANSFORMATION_SUMMARY.md ..... Resumo de transformações / Transformation summary
 │   ├── SESSION_FRAMEWORK.md .......... Sessão, vazio útil e navegação semântica / Session map
+│   ├── REPOSITORY_CATALOG.md ......... Catálogo operacional 5 níveis / Operational catalog
 │   └── Manifest.md ................... Selo de autoria / Authorship seal
 │
 ├── ⚖️ POLÍTICAS E LICENÇAS / POLICIES AND LICENSES
@@ -113,6 +116,7 @@ LivroVivo_ThisBookLives/
 4. [MASTER_INDEX.md](MASTER_INDEX.md) - Este índice mestre
 5. [TRANSFORMATION_SUMMARY.md](TRANSFORMATION_SUMMARY.md) - Resumo de transformações
 6. [SESSION_FRAMEWORK.md](SESSION_FRAMEWORK.md) - Mapa de sessão, vazio útil, parábolas e navegação semântica
+7. [REPOSITORY_CATALOG.md](REPOSITORY_CATALOG.md) - Catálogo operacional de arquivos, rotas, evidências, hashes e riscos
 
 #### Políticas / Policies
 1. [License.md](License.md) - CC BY-SA 4.0, 186 jurisdições
@@ -339,7 +343,7 @@ LivroVivo_ThisBookLives/
 #### 📊 Estatísticas Globais / Global Statistics
 
 **Documentação:**
-- Arquivos totais: 29 originais + 3 gerados = 32
+- Arquivos catalogados até 5 níveis: 41
 - Tamanho total: ~320 KB (sem .git)
 - Linhas de código/texto: ~5,000+
 - Idiomas: 7 (PT, EN, ES, FR, RU, ZH, AR)

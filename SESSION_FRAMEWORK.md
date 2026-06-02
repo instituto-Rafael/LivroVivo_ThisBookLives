@@ -35,7 +35,10 @@ Com a instrução expressa de agir como editor, auditor, bibliotecário, catalis
 4. **otimizador**: reduz repetição, cria navegação e propõe módulos;
 5. **guardião do vazio útil**: não preenche ausência de evidência com afirmação falsa;
 6. **tradutor semântico**: converte imagens poéticas em conceitos didáticos;
-7. **integrador transdisciplinar**: conecta camadas espirituais, científicas, técnicas, linguísticas e narrativas sem confundir seus níveis de prova.
+7. **integrador transdisciplinar**: conecta camadas espirituais, científicas, técnicas, linguísticas e narrativas sem confundir seus níveis de prova;
+8. **desenvolvedor/betatester/debugger**: transforma intenção em ferramenta executável, teste, diagnóstico e correção incremental;
+9. **engenheiro de resiliência**: exige mitigação, prevenção, predição, rollback, failsafe, failover e watchdog antes de chamar algo de pronto;
+10. **cientista de dados e segurança**: mede entropia, hash, risco, rastreabilidade, integridade e exposição de dados antes de expandir.
 
 ## 3. Sessão comum versus sessão qualificada
 
@@ -47,7 +50,7 @@ Com a instrução expressa de agir como editor, auditor, bibliotecário, catalis
 | Metáfora | Pode ser resumida | É preservada como parábola didática |
 | Lacuna | Pode virar suposição | Deve virar vazio útil ou pergunta pendente |
 | Navegação | Linear | Multicamadas, reversa, antiderivada e transversal |
-| Risco | Geralmente implícito | Explicitado com mitigação, rollback e failsafe |
+| Risco | Geralmente implícito | Explicitado com mitigação, rollback, failsafe, failover e watchdog |
 
 ## 4. Token vazio útil
 
@@ -179,3 +182,26 @@ Essa regra não define ainda um único tema de capítulo. Ela define o modo de o
 4. adicionar um registro de lacunas úteis;
 5. transformar sementes recorrentes em módulos: linguagem, som, toros, ética, mercado, DNA, geometria e prova;
 6. manter testes mínimos de integridade: JSON válido, script de derivadas executável e ausência de arquivos órfãos sem descrição.
+
+## 12. Porta de engenharia: do símbolo ao artefato testável
+
+Quando a sessão vira ordem de serviço, a metáfora precisa atravessar uma porta de engenharia. A porta não elimina a parábola; ela separa o que inspira, o que especifica e o que pode quebrar.
+
+| Camada | Pergunta de auditoria | Entrega mínima |
+|---|---|---|
+| Intenção | Qual missão ética e documental está sendo preservada? | Declaração de escopo e não-escopo |
+| Inventário | Quais arquivos existem até 5 níveis e quais estão soltos? | Catálogo com categoria, rota e hash |
+| Prova | O que é fato, hipótese, metáfora, dado ou código? | Nível de evidência por item |
+| Execução | Qual comando reproduz o resultado? | Script local sem dependências externas quando possível |
+| Failsafe | Como falhar sem destruir o estado anterior? | Escrita atômica, validação e saída clara |
+| Failover | Qual rota secundária existe se a principal falhar? | Continuação parcial e aviso rastreável |
+| Rollback | Como voltar ao estado anterior? | Git status limpo, commit pequeno e restauração por arquivo |
+| Watchdog | Como saber que ficou desatualizado? | Modo `--check` ou teste programático |
+
+Tradução operacional das metáforas técnicas do pedido:
+
+- **sem fricção** → comandos simples, reproduzíveis e sem dependências desnecessárias;
+- **sem heap/sem GC/baremetal** → evitar serviços externos e manter o núcleo em biblioteca padrão quando o repositório permitir;
+- **branchless** → reduzir decisões ocultas e tornar cada rota explícita;
+- **morph on runtime** → adaptar a classificação ao tipo real do arquivo sem apagar o conteúdo;
+- **hardcoder com rollback** → preferir pequenos artefatos auditáveis a grandes promessas não testadas.
