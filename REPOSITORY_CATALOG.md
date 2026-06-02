@@ -39,8 +39,8 @@
 | `Canto do amor cientiespiritual` | 1 | arquivo solto/sem extensão | 2710 | 97 | documental/narrativo; requer curadoria de afirmações | leitura → Canto do amor cientiespiritual | normalizar descrição e destino de leitura | `fd4403ef1434` |
 | `capítulo 1.md` | 1 | conteúdo markdown | 4296 | 64 | documental/narrativo; requer curadoria de afirmações | leitura → capítulo 1.md | baixo; manter referências cruzadas | `d11269eae675` |
 | `ClayMathEspiral.svg` | 1 | recurso visual | 1192 | 23 | artefato; requer inspeção visual/documental | leitura → ClayMathEspiral.svg | baixo; manter referências cruzadas | `91cf78d34104` |
-| `derivatives/all_derivatives.json` | 2 | derivada gerada | 184548 | 3772 | verificável por execução ou parse | derivadas → derivatives/all_derivatives.json | não editar manualmente sem regenerar | `44c5850f0d90` |
-| `derivatives/cross_references.json` | 2 | derivada gerada | 3528 | 190 | verificável por execução ou parse | derivadas → derivatives/cross_references.json | não editar manualmente sem regenerar | `5415a322cf3e` |
+| `derivatives/all_derivatives.json` | 2 | derivada gerada | 188321 | 3772 | verificável por execução ou parse | derivadas → derivatives/all_derivatives.json | não editar manualmente sem regenerar | `95534d36f260` |
+| `derivatives/cross_references.json` | 2 | derivada gerada | 3719 | 190 | verificável por execução ou parse | derivadas → derivatives/cross_references.json | não editar manualmente sem regenerar | `4de569555a71` |
 | `derivatives/DERIVATIVES_REPORT.md` | 2 | derivada gerada | 15233 | 504 | verificável por execução ou parse | derivadas → derivatives/DERIVATIVES_REPORT.md | não editar manualmente sem regenerar | `82ab4078a389` |
 | `derivatives/README.md` | 2 | derivada gerada | 8072 | 308 | verificável por execução ou parse | derivadas → derivatives/README.md | não editar manualmente sem regenerar | `9f03120afcba` |
 | `DERIVATIVES_INDEX.md` | 1 | conteúdo markdown | 17341 | 465 | documental/narrativo; requer curadoria de afirmações | leitura → DERIVATIVES_INDEX.md | baixo; manter referências cruzadas | `631c8a531569` |
@@ -54,7 +54,7 @@
 | `Manifest.md` | 1 | conteúdo markdown | 1133 | 28 | documental/narrativo; requer curadoria de afirmações | leitura → Manifest.md | baixo; manter referências cruzadas | `0c2c23ff6af9` |
 | `Manifest_2.md` | 1 | conteúdo markdown | 4059 | 100 | documental/narrativo; requer curadoria de afirmações | leitura → Manifest_2.md | baixo; manter referências cruzadas | `47949dde5a66` |
 | `MASTER_INDEX.md` | 1 | navegação/catálogo | 20878 | 555 | documental/narrativo; requer curadoria de afirmações | índices → MASTER_INDEX.md | baixo; manter referências cruzadas | `fb222fa5b152` |
-| `META_DATA.json` | 1 | metadado/dado estruturado | 426 | 13 | verificável por execução ou parse | leitura → META_DATA.json | baixo; manter referências cruzadas | `c54f1c50fe62` |
+| `META_DATA.json` | 1 | metadado/dado estruturado | 479 | 21 | verificável por execução ou parse | leitura → META_DATA.json | baixo; manter referências cruzadas | `0db255138a17` |
 | `METHODOLOGY.md` | 1 | conteúdo markdown | 23429 | 668 | documental/narrativo; requer curadoria de afirmações | leitura → METHODOLOGY.md | baixo; manter referências cruzadas | `6d50ac052f93` |
 | `PREFACE.md` | 1 | conteúdo markdown | 9761 | 213 | documental/narrativo; requer curadoria de afirmações | leitura → PREFACE.md | baixo; manter referências cruzadas | `0bee3a6722a9` |
 | `Prefacio in code.md` | 1 | conteúdo markdown | 5054 | 107 | documental/narrativo; requer curadoria de afirmações | leitura → Prefacio in code.md | baixo; manter referências cruzadas | `c1fc7f854830` |
@@ -64,7 +64,7 @@
 | `README.md` | 1 | navegação/catálogo | 49526 | 1591 | documental/narrativo; requer curadoria de afirmações | índices → README.md | arquivo grande; revisar por seções | `760e6564a768` |
 | `review1.md` | 1 | conteúdo markdown | 3449 | 130 | documental/narrativo; requer curadoria de afirmações | leitura → review1.md | baixo; manter referências cruzadas | `f38d5174f087` |
 | `scripts/catalog_repository.py` | 2 | script/ferramenta | 10259 | 267 | verificável por execução ou parse | executar/validar → scripts/catalog_repository.py | testar antes de usar em pipeline | `c019c52ef843` |
-| `scripts/generate_derivatives.py` | 2 | script/ferramenta | 14039 | 348 | verificável por execução ou parse | executar/validar → scripts/generate_derivatives.py | testar antes de usar em pipeline | `e19eb63421b1` |
+| `scripts/generate_derivatives.py` | 2 | script/ferramenta | 14204 | 353 | verificável por execução ou parse | executar/validar → scripts/generate_derivatives.py | testar antes de usar em pipeline | `a86f61ef0b20` |
 | `SESSION_FRAMEWORK.md` | 1 | conteúdo markdown | 10775 | 207 | documental/narrativo; requer curadoria de afirmações | leitura → SESSION_FRAMEWORK.md | baixo; manter referências cruzadas | `6ad297817cfe` |
 | `TAKEDOWN_POLICY.md` | 1 | política/licença | 369 | 10 | documental/narrativo; requer curadoria de afirmações | leitura → TAKEDOWN_POLICY.md | baixo; manter referências cruzadas | `674932d570f8` |
 | `TECHNICAL_SUMMARY.md` | 1 | conteúdo markdown | 12249 | 435 | documental/narrativo; requer curadoria de afirmações | leitura → TECHNICAL_SUMMARY.md | baixo; manter referências cruzadas | `db86e8b6d5ef` |

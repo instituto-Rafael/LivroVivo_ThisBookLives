@@ -25,6 +25,13 @@ GENERATED_CATALOG_FILES = {'REPOSITORY_CATALOG.md'}
 OUTPUT_DIR = REPO_ROOT / 'derivatives'
 
 
+def write_spaced_json(path: Path, payload: Dict) -> None:
+    """Write valid JSON with one leading space on every line."""
+    text = json.dumps(payload, indent=2, ensure_ascii=False)
+    spaced = "\n".join(f" {line}" for line in text.splitlines()) + "\n"
+    path.write_text(spaced, encoding='utf-8')
+
+
 class DerivativeGenerator:
     """Gerador de derivadas conceituais"""
     
@@ -250,16 +257,14 @@ class DerivativeGenerator:
         
         # Salva derivadas em JSON
         derivatives_file = OUTPUT_DIR / 'all_derivatives.json'
-        with open(derivatives_file, 'w', encoding='utf-8') as f:
-            json.dump(dict(self.derivatives), f, indent=2, ensure_ascii=False)
+        write_spaced_json(derivatives_file, dict(self.derivatives))
         print(f"  ✓ {derivatives_file.name}")
         
         # Salva referências cruzadas
         cross_refs_file = OUTPUT_DIR / 'cross_references.json'
-        with open(cross_refs_file, 'w', encoding='utf-8') as f:
-            # Converte sets para listas para JSON
-            refs_dict = {k: list(v) for k, v in self.cross_refs.items()}
-            json.dump(refs_dict, f, indent=2, ensure_ascii=False)
+        # Converte sets para listas ordenadas para JSON estável
+        refs_dict = {k: sorted(v) for k, v in self.cross_refs.items()}
+        write_spaced_json(cross_refs_file, refs_dict)
         print(f"  ✓ {cross_refs_file.name}")
         
         # Gera relatório markdown
