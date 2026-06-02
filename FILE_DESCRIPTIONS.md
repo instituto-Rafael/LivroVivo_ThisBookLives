@@ -26,6 +26,20 @@
 - **Referências:** ONU (1948), Convenção de Berna (1886)
 - **Inovação:** Integração de tratados jurídicos com parábolas espirituais
 
+### SESSION_FRAMEWORK.md
+- **Tipo:** Markdown / UTF-8
+- **Propósito:** Mapa operacional para sessões amplas, com distinção entre fato, metáfora, hipótese e vazio útil
+- **Conteúdo:**
+  - Diferença entre sessão comum e sessão qualificada do Livro Vivo
+  - Definição de token vazio útil
+  - Metáforas como parábolas didáticas
+  - Dois ciclos multifuncionais de curadoria e expansão
+  - Quatorze direções de navegação semântica
+  - Catálogo de mecanismos qualitativos e quantitativos
+  - Rota futura para módulos multilíngues e sonoros
+- **Uso Acadêmico:** Metodologia de curadoria, documentação e auditoria semântica
+- **Inovação:** Converte instruções poéticas de sessão em protocolo navegável e verificável
+
 ---
 
 ## Arquivos Acadêmicos

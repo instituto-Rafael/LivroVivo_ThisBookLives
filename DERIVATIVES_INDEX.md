@@ -316,7 +316,7 @@ f(−x) = reversa (leitura invertida, espelhamento)
 | 5. Aplicação | APPLICATIONS.md | Derivada (TRL) | 10 | ✅ Documentado |
 | 6. Culturais | README.md, 222, voz, Quba | Antiderivada (raiz) | 9 | ✅ Documentado |
 | 7. Tecnológicas | Todos técnicos | Inversa (natura) | 10 | ✅ Documentado |
-| **TOTAL** | **26 arquivos** | **7 tipos** | **69** | **✅ Completo** |
+| **TOTAL** | **29 arquivos-base catalogados** | **7 tipos** | **69 transformações conceituais / 319 derivadas automatizadas** | **✅ Completo** |
 
 ---
 

@@ -11,15 +11,15 @@
 ## 🗺️ Navegação Inteligente / Intelligent Navigation
 
 Este é o **Índice Mestre** que conecta TODOS os elementos do Livro Vivo, incluindo:
-- 26 arquivos originais
-- 264+ derivadas geradas
+- 29 arquivos originais
+- 319 derivadas geradas
 - Referências cruzadas
 - Scripts e ferramentas
 - Dados e recursos
 
 This is the **Master Index** that connects ALL elements of the Living Book, including:
-- 26 original files
-- 264+ generated derivatives
+- 29 original files
+- 319 generated derivatives
 - Cross-references
 - Scripts and tools
 - Data and resources
@@ -57,6 +57,7 @@ LivroVivo_ThisBookLives/
 │   ├── DERIVATIVES_INDEX.md .......... Sistema de 69 derivadas / 69 derivatives system
 │   ├── MASTER_INDEX.md ............... Este arquivo / This file
 │   ├── TRANSFORMATION_SUMMARY.md ..... Resumo de transformações / Transformation summary
+│   ├── SESSION_FRAMEWORK.md .......... Sessão, vazio útil e navegação semântica / Session map
 │   └── Manifest.md ................... Selo de autoria / Authorship seal
 │
 ├── ⚖️ POLÍTICAS E LICENÇAS / POLICIES AND LICENSES
@@ -76,7 +77,7 @@ LivroVivo_ThisBookLives/
 │
 └── 📊 DERIVADAS E TRANSFORMAÇÕES / DERIVATIVES AND TRANSFORMATIONS
     └── derivatives/
-        ├── all_derivatives.json ....... 264+ derivadas em JSON / 264+ derivatives in JSON
+        ├── all_derivatives.json ....... 319 derivadas em JSON / 319 derivatives in JSON
         ├── cross_references.json ...... Referências cruzadas / Cross-references
         └── DERIVATIVES_REPORT.md ...... Relatório de derivadas / Derivatives report
 
@@ -111,6 +112,7 @@ LivroVivo_ThisBookLives/
 3. [DERIVATIVES_INDEX.md](DERIVATIVES_INDEX.md) - Sistema de 69 derivadas
 4. [MASTER_INDEX.md](MASTER_INDEX.md) - Este índice mestre
 5. [TRANSFORMATION_SUMMARY.md](TRANSFORMATION_SUMMARY.md) - Resumo de transformações
+6. [SESSION_FRAMEWORK.md](SESSION_FRAMEWORK.md) - Mapa de sessão, vazio útil, parábolas e navegação semântica
 
 #### Políticas / Policies
 1. [License.md](License.md) - CC BY-SA 4.0, 186 jurisdições
@@ -228,8 +230,8 @@ LivroVivo_ThisBookLives/
 ### 4. Índice por Derivadas / Index by Derivatives
 
 #### 📊 Estatísticas de Derivadas / Derivatives Statistics
-- **Total de derivadas geradas:** 264+
-- **Arquivos processados:** 24
+- **Total de derivadas geradas:** 319
+- **Arquivos processados:** 29
 - **Tipos de transformação:** 4 (derivada, antiderivada, inversa, reversa)
 - **Referências cruzadas:** 90+
 
@@ -322,7 +324,7 @@ LivroVivo_ThisBookLives/
 **2026-01-08:** Segunda transformação – Sistema de Derivadas
 - Criação de DERIVATIVES_INDEX.md
 - Desenvolvimento de generate_derivatives.py
-- Geração automática de 264+ derivadas
+- Geração automática de 319 derivadas
 - Criação de MASTER_INDEX.md
 - Mapeamento de referências cruzadas
 - Status: 🔄 Em andamento
@@ -337,7 +339,7 @@ LivroVivo_ThisBookLives/
 #### 📊 Estatísticas Globais / Global Statistics
 
 **Documentação:**
-- Arquivos totais: 26 originais + 3 gerados = 29
+- Arquivos totais: 29 originais + 3 gerados = 32
 - Tamanho total: ~320 KB (sem .git)
 - Linhas de código/texto: ~5,000+
 - Idiomas: 7 (PT, EN, ES, FR, RU, ZH, AR)
@@ -350,7 +352,7 @@ LivroVivo_ThisBookLives/
 - Áreas temáticas: 12
 
 **Derivadas e Transformações:**
-- Derivadas geradas: 264+
+- Derivadas geradas: 319
 - Referências cruzadas: 90+
 - Scripts de automação: 1
 - Relatórios gerados: 3
