@@ -1,125 +1,185 @@
 {
-  "License.md": [
-    "INDEX.md"
-  ],
-  "INDEX.md": [
-    "PRIVACY_POLICY.md",
+  "ABSTRACT.md": [
+    "APPLICATIONS.md",
     "METHODOLOGY.md",
-    "Biografia.md",
-    "FILE_DESCRIPTIONS.md",
-    "capítulo 1.md",
-    "Introducao.md",
-    "Canto do amor cientiespiritual",
-    "PREFACE.md",
-    "Manifest.md",
-    "voz",
-    "APPLICATIONS.md",
-    "TAKEDOWN_POLICY.md",
-    "README.md",
-    "License.md",
-    "222",
-    "BIBLIOGRAPHY.md",
-    "Epilogo.md",
-    "ABSTRACT.md",
-    "Quba"
-  ],
-  "DERIVATIVES_INDEX.md": [
-    "PREFACE.md",
-    "TRANSFORMATION_SUMMARY.md",
-    "222",
-    "BIBLIOGRAPHY.md",
-    "Epilogo.md",
-    "APPLICATIONS.md",
-    "voz",
-    "README.md",
-    "METHODOLOGY.md",
-    "capítulo 1.md",
-    "INDEX.md",
-    "Quba",
-    "Introducao.md",
-    "Canto do amor cientiespiritual"
-  ],
-  "FILE_DESCRIPTIONS.md": [
-    "PRIVACY_POLICY.md",
-    "Prefacio in code.md",
-    "Biografia.md",
-    "review1.md",
-    "capítulo 1.md",
-    "Introducao.md",
-    "Canto do amor cientiespiritual",
-    "PREFACE.md",
-    "Manifest.md",
-    "voz",
-    "APPLICATIONS.md",
-    "TAKEDOWN_POLICY.md",
-    "README.md",
-    "License.md",
-    "222",
-    "BIBLIOGRAPHY.md",
-    "Epilogo.md",
-    "ABSTRACT.md",
-    "INDEX.md",
-    "Quba"
+    "License.md"
   ],
   "APPLICATIONS.md": [
+    "ABSTRACT.md",
+    "222"
+  ],
+  "BIBLIOGRAPHY.md": [
+    "APPLICATIONS.md",
+    "METHODOLOGY.md",
+    "INDEX.md"
+  ],
+  "Biografia.md": [
+    "Manifest.md"
+  ],
+  "capítulo 1.md": [
+    "Manifest.md"
+  ],
+  "DERIVATIVES_INDEX.md": [
+    "BIBLIOGRAPHY.md",
+    "Introducao.md",
+    "APPLICATIONS.md",
+    "Quba",
     "222",
-    "ABSTRACT.md"
+    "Epilogo.md",
+    "Canto do amor cientiespiritual",
+    "METHODOLOGY.md",
+    "capítulo 1.md",
+    "voz",
+    "TRANSFORMATION_SUMMARY.md",
+    "INDEX.md",
+    "PREFACE.md",
+    "README.md"
   ],
   "Epilogo.md": [
     "voz",
     "Manifest.md"
   ],
-  "ABSTRACT.md": [
-    "METHODOLOGY.md",
+  "FILE_DESCRIPTIONS.md": [
+    "BIBLIOGRAPHY.md",
+    "License.md",
+    "capítulo 1.md",
+    "Canto do amor cientiespiritual",
+    "Prefacio in code.md",
+    "INDEX.md",
+    "Biografia.md",
+    "Introducao.md",
+    "review1.md",
     "APPLICATIONS.md",
-    "License.md"
+    "Epilogo.md",
+    "ABSTRACT.md",
+    "voz",
+    "PRIVACY_POLICY.md",
+    "SESSION_FRAMEWORK.md",
+    "Quba",
+    "Manifest.md",
+    "README.md",
+    "TAKEDOWN_POLICY.md",
+    "222",
+    "PREFACE.md"
   ],
-  "Biografia.md": [
-    "Manifest.md"
-  ],
-  "BIBLIOGRAPHY.md": [
-    "METHODOLOGY.md",
+  "INDEX.md": [
+    "BIBLIOGRAPHY.md",
+    "License.md",
+    "capítulo 1.md",
+    "Canto do amor cientiespiritual",
+    "FILE_DESCRIPTIONS.md",
+    "Biografia.md",
+    "Introducao.md",
     "APPLICATIONS.md",
+    "Epilogo.md",
+    "METHODOLOGY.md",
+    "ABSTRACT.md",
+    "voz",
+    "PRIVACY_POLICY.md",
+    "Quba",
+    "Manifest.md",
+    "README.md",
+    "TAKEDOWN_POLICY.md",
+    "222",
+    "PREFACE.md"
+  ],
+  "License.md": [
     "INDEX.md"
   ],
-  "METHODOLOGY.md": [
-    "Manifest.md",
+  "MASTER_INDEX.md": [
+    "BIBLIOGRAPHY.md",
+    "License.md",
+    "capítulo 1.md",
+    "TRANSFORMATION_SUMMARY.md",
+    "Canto do amor cientiespiritual",
+    "DERIVATIVES_INDEX.md",
+    "FILE_DESCRIPTIONS.md",
+    "INDEX.md",
+    "Biografia.md",
+    "Introducao.md",
     "APPLICATIONS.md",
+    "Epilogo.md",
+    "METHODOLOGY.md",
+    "ABSTRACT.md",
+    "PRIVACY_POLICY.md",
+    "voz",
+    "SESSION_FRAMEWORK.md",
+    "Quba",
+    "Manifest.md",
     "README.md",
+    "TAKEDOWN_POLICY.md",
+    "222",
+    "PREFACE.md"
+  ],
+  "METHODOLOGY.md": [
+    "License.md",
+    "APPLICATIONS.md",
     "capítulo 1.md",
     "INDEX.md",
-    "License.md"
-  ],
-  "review1.md": [
-    "capítulo 1.md",
-    "Manifest.md"
-  ],
-  "README.md": [
-    "capítulo 1.md",
-    "Introducao.md",
-    "voz",
-    "Manifest.md"
+    "Manifest.md",
+    "README.md"
   ],
   "PREFACE.md": [
-    "METHODOLOGY.md",
-    "APPLICATIONS.md"
+    "APPLICATIONS.md",
+    "METHODOLOGY.md"
   ],
-  "capítulo 1.md": [
+  "QUICK_START.md": [
+    "BIBLIOGRAPHY.md",
+    "capítulo 1.md",
+    "TRANSFORMATION_SUMMARY.md",
+    "TECHNICAL_SUMMARY.md",
+    "Canto do amor cientiespiritual",
+    "DERIVATIVES_INDEX.md",
+    "INDEX.md",
+    "MASTER_INDEX.md",
+    "Biografia.md",
+    "Introducao.md",
+    "APPLICATIONS.md",
+    "Epilogo.md",
+    "METHODOLOGY.md",
+    "ABSTRACT.md",
+    "voz",
+    "Quba",
+    "README.md",
+    "222",
+    "PREFACE.md"
+  ],
+  "README.md": [
+    "MASTER_INDEX.md",
+    "Introducao.md",
+    "ABSTRACT.md",
+    "voz",
+    "SESSION_FRAMEWORK.md",
+    "capítulo 1.md",
+    "DERIVATIVES_INDEX.md",
+    "FILE_DESCRIPTIONS.md",
+    "INDEX.md",
     "Manifest.md"
   ],
-  "TRANSFORMATION_SUMMARY.md": [
-    "FILE_DESCRIPTIONS.md",
-    "PREFACE.md",
-    "222",
-    "BIBLIOGRAPHY.md",
-    "voz",
-    "APPLICATIONS.md",
-    "ABSTRACT.md",
+  "review1.md": [
+    "Manifest.md",
+    "capítulo 1.md"
+  ],
+  "TECHNICAL_SUMMARY.md": [
+    "MASTER_INDEX.md",
     "METHODOLOGY.md",
-    "capítulo 1.md",
+    "DERIVATIVES_INDEX.md",
     "INDEX.md",
+    "README.md"
+  ],
+  "TRANSFORMATION_SUMMARY.md": [
+    "BIBLIOGRAPHY.md",
+    "Introducao.md",
+    "APPLICATIONS.md",
     "Quba",
-    "Introducao.md"
+    "222",
+    "METHODOLOGY.md",
+    "ABSTRACT.md",
+    "capítulo 1.md",
+    "voz",
+    "FILE_DESCRIPTIONS.md",
+    "INDEX.md",
+    "PREFACE.md"
   ],
   "222": [
     "Manifest.md"

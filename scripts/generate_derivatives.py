@@ -21,6 +21,7 @@ from collections import defaultdict
 REPO_ROOT = Path(__file__).parent.parent
 MARKDOWN_EXTS = ['.md', '.MD']
 NO_EXTENSION_FILES = ['222', 'voz', 'Quba', 'Canto do amor cientiespiritual']
+GENERATED_CATALOG_FILES = {'REPOSITORY_CATALOG.md'}
 OUTPUT_DIR = REPO_ROOT / 'derivatives'
 
 
@@ -37,8 +38,8 @@ class DerivativeGenerator:
         print("📂 Carregando arquivos do repositório...")
         
         # Arquivos markdown
-        for md_file in REPO_ROOT.glob('*.md'):
-            if md_file.name not in ['.git', 'node_modules']:
+        for md_file in sorted(REPO_ROOT.glob('*.md'), key=lambda path: path.name.lower()):
+            if md_file.name not in GENERATED_CATALOG_FILES:
                 self.files[md_file.name] = md_file.read_text(encoding='utf-8')
                 print(f"  ✓ {md_file.name}")
         
