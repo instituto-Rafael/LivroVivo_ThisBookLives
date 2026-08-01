@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rafaelia.example/schemas/living_book_domain_cell.schema.json",
+  "title": "RAFAELIA Living Book Domain Cell V1",
+  "type": "object",
+  "required": ["schema", "cell_id", "version", "state", "visibility", "payload", "integrity"],
+  "properties": {
+    "schema": {"const": "rafaelia.living-book.domain-cell/v1"},
+    "cell_id": {"type": "string", "pattern": "^LBC-[A-Z0-9_-]+-[0-9]{4}$"},
+    "version": {"type": "string"},
+    "state": {"type": "string"},
+    "visibility": {"enum": ["PUBLIC_SYNTHETIC_EXAMPLE", "PRIVATE", "INTERNAL", "RESTRICTED"]},
+    "payload": {
+      "type": "object",
+      "required": ["domain", "seed", "mirrors", "modules", "relations", "governance", "privacy_security", "workflow_proof"],
+      "properties": {
+        "domain": {"type": "object"},
+        "seed": {"type": "object"},
+        "mirrors": {"type": "object"},
+        "modules": {"type": "array", "minItems": 1},
+        "relations": {"type": "array"},
+        "governance": {"type": "object"},
+        "privacy_security": {"type": "object"},
+        "workflow_proof": {"type": "object"}
+      },
+      "additionalProperties": false
+    },
+    "integrity": {
+      "type": "object",
+      "required": ["canonicalization", "digests"],
+      "properties": {
+        "canonicalization": {"const": "json-sort-keys-utf8-no-whitespace/v1"},
+        "digests": {
+          "type": "object",
+          "required": ["sha256", "sha3_256", "blake2b_256"],
+          "properties": {
+            "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+            "sha3_256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+            "blake2b_256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
