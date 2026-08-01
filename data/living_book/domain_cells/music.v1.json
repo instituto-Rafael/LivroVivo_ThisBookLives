@@ -1,0 +1,92 @@
+{
+  "schema": "rafaelia.living-book.domain-cell/v1",
+  "cell_id": "LBC-MUSIC-0001",
+  "version": "1.0.0",
+  "state": "DRAFT_VALIDATED_STRUCTURE",
+  "visibility": "PUBLIC_SYNTHETIC_EXAMPLE",
+  "payload": {
+    "domain": {
+      "id": "music",
+      "title": "Music — domain-first learning and creation",
+      "primary_language": "pt-BR",
+      "primary_view": ["escuta", "ritmo", "melodia", "harmonia", "instrumento", "prática", "composição"],
+      "domain_steward_role": "MUSIC_DOMAIN_STEWARD"
+    },
+    "seed": {
+      "id": "SEED-MUSIC-0001",
+      "source_class": "USER_INTENT_SUMMARY",
+      "source_disclosure": "NO_RAW_PRIVATE_TEXT",
+      "summary": "Uma pessoa pode entrar pela música e receber apoio matemático, computacional e de IA sem precisar dominar essas linguagens auxiliares.",
+      "epistemic_state": "CONCEPT",
+      "claim_allowed": false
+    },
+    "mirrors": {
+      "human": {
+        "role": "MEANING_AND_FINAL_DOMAIN_AUTHORITY",
+        "rights": ["inspect", "correct", "reject", "pause", "revoke", "approve_exact_digest", "request_plain_language"],
+        "final_authority_for": ["meaning", "sensitive_disclosure", "publication", "execution_approval"]
+      },
+      "ai": {
+        "role": "ADVISORY_ORGANIZATION_AND_TRANSLATION_ONLY",
+        "allowed": ["classify", "relate", "summarize", "propose", "translate_to_domain", "mark_token_vazio", "draft_test"],
+        "forbidden": ["self_approve", "publish", "disclose_private", "promote_claim", "execute_untrusted", "overwrite_seed"]
+      }
+    },
+    "modules": [
+      {"id": "music.core", "kind": "DOMAIN", "visibility": "PRIMARY", "purpose": "Preservar a linguagem musical e a experiência prática como porta principal.", "required_user_knowledge": []},
+      {"id": "support.math", "kind": "SUPPORT", "visibility": "OPTIONAL", "purpose": "Apoiar relações de proporção, periodicidade, intervalos, grafos e métricas.", "required_user_knowledge": [], "must_translate_to_domain_language": true},
+      {"id": "support.code", "kind": "SUPPORT", "visibility": "OPTIONAL", "purpose": "Gerar catálogos, análises de áudio ou artefatos reproduzíveis quando autorizado.", "required_user_knowledge": [], "must_translate_to_domain_language": true},
+      {"id": "support.ai", "kind": "SUPPORT", "visibility": "OPTIONAL", "purpose": "Organizar, explicar, comparar e propor exercícios sem assumir autoridade humana.", "required_user_knowledge": [], "must_translate_to_domain_language": true},
+      {"id": "support.security", "kind": "GOVERNANCE_SUPPORT", "visibility": "ALWAYS_ON", "purpose": "Proteger gravações, autoria, consentimento, segredos, dados pessoais e publicação.", "required_user_knowledge": [], "must_translate_to_domain_language": true}
+    ],
+    "relations": [
+      {"from": "support.math", "type": "TRANSLATES_TO_DOMAIN", "to": "music.core"},
+      {"from": "support.code", "type": "TRANSLATES_TO_DOMAIN", "to": "music.core"},
+      {"from": "support.ai", "type": "TRANSLATES_TO_DOMAIN", "to": "music.core"},
+      {"from": "music.core", "type": "GOVERNED_BY", "to": "support.security"},
+      {"from": "support.code", "type": "GOVERNED_BY", "to": "support.security"},
+      {"from": "support.ai", "type": "GOVERNED_BY", "to": "support.security"}
+    ],
+    "governance": {
+      "authority_model": "DOMAIN_STEWARD_WITH_HUMAN_FINAL_APPROVAL",
+      "ai_can_approve": false,
+      "approval_required_for": ["execute", "publish", "disclose_private", "promote_claim"],
+      "approval_binding": "EXACT_CELL_SHA256",
+      "contestation_channel_required": true,
+      "rollback_required": true,
+      "claim_allowed": false
+    },
+    "privacy_security": {
+      "data_class": "PUBLIC_SYNTHETIC_EXAMPLE",
+      "raw_private_text_committed": false,
+      "secrets_allowed": false,
+      "credentials_allowed": false,
+      "untrusted_content_execution": "FORBIDDEN",
+      "data_minimization": true,
+      "consent_required_for_recordings": true,
+      "public_export_default": "DENY"
+    },
+    "workflow_proof": {
+      "state_order": ["CAPTURED", "CLASSIFIED", "MAPPED", "PROPOSED", "HUMAN_APPROVED", "EXECUTED_BOUNDED", "VERIFIED", "RECEIPTED", "INDEXED"],
+      "current_state": "MAPPED",
+      "triggers": [
+        {"on": "SEED_ADDED", "action": "INDEX_ONLY", "automatic": true},
+        {"on": "MODULE_PROPOSAL", "action": "REQUEST_HUMAN_REVIEW", "automatic": true},
+        {"on": "EXECUTION_REQUEST", "action": "REQUIRE_EXACT_DIGEST_APPROVAL", "automatic": true}
+      ],
+      "automatic_actions_forbidden": ["EXECUTE", "PUBLISH", "DISCLOSE_PRIVATE", "PROMOTE_CLAIM"],
+      "required_receipt_fields": ["intent_id", "object_id", "input_digests", "procedure", "environment", "policy_decision", "human_approval_digest", "timestamps", "exit_status", "outputs", "tests", "falsifiers", "rollback", "F_ok", "F_gap", "F_next"],
+      "proof_state": "STRUCTURE_ONLY",
+      "runtime_state": "TOKEN_VAZIO_RUNTIME_NOT_EXECUTED",
+      "claim_allowed": false
+    }
+  },
+  "integrity": {
+    "canonicalization": "json-sort-keys-utf8-no-whitespace/v1",
+    "digests": {
+      "sha256": "c2dba442fb9efedb33b4ecc40b38d2f594b7bd0e343051be93087c26724fc9c7",
+      "sha3_256": "cfbc142cafba40b9e31bdcd4b0f4dbdd2ea3258ea3014c59e02ff8ab35a25b05",
+      "blake2b_256": "bbe51280f4a16110ef081bc155ee7c9b3bff5a1cb7d6772af8060262a7abf224"
+    }
+  }
+}

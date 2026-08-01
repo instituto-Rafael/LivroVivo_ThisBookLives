@@ -1,0 +1,33 @@
+{
+  "schema": "rafaelia.living-book.ledger-event/v1",
+  "event_id": "LBE-MUSIC-0001-GENESIS",
+  "object_id": "LBC-MUSIC-0001",
+  "event_type": "GENESIS_REGISTER",
+  "previous_event_sha256": null,
+  "recorded_at": "2026-08-01T12:56:00-03:00",
+  "actor": "assistant_with_user_authority_boundary",
+  "body": {
+    "source_visibility": "PUBLIC_SYNTHETIC_EXAMPLE",
+    "source_raw_private_text_stored": false,
+    "decision": "STRUCTURE_VALIDATED_LOCAL",
+    "claim_allowed": false,
+    "object_digests": {
+      "sha256": "c2dba442fb9efedb33b4ecc40b38d2f594b7bd0e343051be93087c26724fc9c7",
+      "sha3_256": "cfbc142cafba40b9e31bdcd4b0f4dbdd2ea3258ea3014c59e02ff8ab35a25b05",
+      "blake2b_256": "bbe51280f4a16110ef081bc155ee7c9b3bff5a1cb7d6772af8060262a7abf224"
+    },
+    "evidence": ["validator", "unit_tests"],
+    "limits": ["no_android_runtime", "no_independent_review", "no_public_claim_promotion"],
+    "F_ok": "domain cell, mirror asymmetry, governance, privacy and proof contract materialized",
+    "F_gap": "Termux middleware adapters and independent privacy review",
+    "F_next": "map the producer artifact in Mapa and compile bounded adapters in their owning repositories"
+  },
+  "integrity": {
+    "canonicalization": "json-sort-keys-utf8-no-whitespace/v1",
+    "digests": {
+      "sha256": "8f5028d117d50640f321f911c351de28960ab4e9781b189b14b195022eb019b9",
+      "sha3_256": "1c2e534379d3542cf279d7b2763717f4789f0f9a9a4cfee366eb2f05dd4eb351",
+      "blake2b_256": "38cbc3de9f61181d05118694159c825592cf606ea9e47cec3b44d8674522e3fe"
+    }
+  }
+}
