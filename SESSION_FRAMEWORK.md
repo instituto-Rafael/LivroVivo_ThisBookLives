@@ -205,3 +205,8 @@ Tradução operacional das metáforas técnicas do pedido:
 - **branchless** → reduzir decisões ocultas e tornar cada rota explícita;
 - **morph on runtime** → adaptar a classificação ao tipo real do arquivo sem apagar o conteúdo;
 - **hardcoder com rollback** → preferir pequenos artefatos auditáveis a grandes promessas não testadas.
+
+## 13. Semente atual — Sete Pedras / ancoragem da informação (2026-10-21)
+
+- [Parábola das Sete Pedras e dos Muitos Sons](docs/SEMENTE_SETESONS_ANCORAGEM_INFORMACAO_20261021.md) — projeções multilíngues, numerais 7/70, compressão, experiência subjetiva e preservação de relações; `MU-LIVRO-TEMPLO-ANCORAGEM-20261021-S1`, `PARABOLA+HYPOTHESIS`, sem promoção científica.
+- Projeção tipada de custódia no Templo Vivo ARCS: `rafaelmeloreisnovo/templo-vivo-arcs:docs/posdoc_estrutura/PONTE_LIVROVIVO_ANCORAGEM_SEMANTICA_20261021.md` (revisão por PR separada; não duplicar o texto).
