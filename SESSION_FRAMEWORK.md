@@ -205,3 +205,13 @@ Tradução operacional das metáforas técnicas do pedido:
 - **branchless** → reduzir decisões ocultas e tornar cada rota explícita;
 - **morph on runtime** → adaptar a classificação ao tipo real do arquivo sem apagar o conteúdo;
 - **hardcoder com rollback** → preferir pequenos artefatos auditáveis a grandes promessas não testadas.
+
+## 13. Semente atual — Sete Pedras / ancoragem da informação (2026-10-21)
+
+- [Parábola das Sete Pedras e dos Muitos Sons](docs/SEMENTE_SETESONS_ANCORAGEM_INFORMACAO_20261021.md) — projeções multilíngues, numerais 7/70, compressão, experiência subjetiva e preservação de relações; `MU-LIVRO-TEMPLO-ANCORAGEM-20261021-S1`, `PARABOLA+HYPOTHESIS`, sem promoção científica.
+- Projeção tipada de custódia no Templo Vivo ARCS: `rafaelmeloreisnovo/templo-vivo-arcs:docs/posdoc_estrutura/PONTE_LIVROVIVO_ANCORAGEM_SEMANTICA_20261021.md` (revisão por PR separada; não duplicar o texto).
+
+
+## 14. Correção de rota: imagem integral, esfera geodésica e fórmula sem perda (2026-10-21)
+
+O autor esclareceu que a parábola anterior não substitui o problema geodésico: conservar a esfera e o plano de triângulo equilátero, altura sqrt(3)/2, circunferências e círculos, cópias espaciais independentes, reflexões com histórico, mesmo ponto/reta de chegada, as quatro sementes de Fibonacci com zeros e o par (77,33) com o fator de origem 11. Ver o produtor Matem-tica-:docs/formal/SEMENTE_INTEGRAL_ESFERA_LENTES_ESPELHOS_FIBONACCI_20261021.md; registro de trechos autorais separados em Matem-tica-/notas/ORIGEM_AUTORAL_TRECHOS_DIRETOS_SEM_REDUCAO_20261021.md. A afirmação de >=600 fórmulas faltantes é solicitação de censo ainda NÃO VERIFICADA; não recontar o censo MF251 como total do corpus. Isto é correção editorial / successor da parábola, não substituição de suas fontes, nem validação científica.
